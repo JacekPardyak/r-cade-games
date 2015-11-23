@@ -1,0 +1,115 @@
+FR ty ge EN EN_example FR_example
+"Un" "article" "m" "A / An" "A boy" "Un garçon"
+"Une" "article" "f" "A / An" "An omelet" "Une omelette"
+"Des" "article" NA "Some" "Some suitcases" "Des valises"
+"Le / L'" "article" "m" "The" "The world" "Le monde"
+"La / L'" "article" "f" "The" NA NA # singular for feminine
+"Les" "article" NA "The" NA NA # plural for m or f
+"De le / Du" "article" "m" "Some" "Some bread" "Du pain"
+"De la" "article" "f" "Some" NA NA
+"Je / J'" "pronom" NA "I" NA NA
+"Tu" "pronom" NA "You" NA NA
+"Il" "pronom" NA "He" NA NA
+"Elle" "pronom" NA "She" NA NA
+"Nous" "pronom" NA "We" NA NA
+"Vous" "pronom" NA "You" NA NA
+"Ils" "pronom" NA "They" NA NA
+"Elles" "pronom" NA "They" NA NA
+"Moi" "pronom" NA "Me" NA NA
+"Toi" "pronom" NA "You" NA NA
+"Lui" "pronom" NA "Him" NA NA
+"Eux" "pronom" NA "Them" NA NA
+"Oui" "interjection" NA "Yes" NA NA
+"Non" "interjection" NA "No" NA NA
+"Et" "conjonction" NA "And" NA NA
+"À" "préposition" NA "To" NA NA
+"viande" "nom" "f" "meat" NA NA
+"poisson" "nom" "m" "fish" NA NA
+"bonbon" "nom" "m" "candy" NA NA
+"carotte" "nom" "f" "carrot" NA NA
+"riz" "nom" "m" "rice" NA NA
+"pain" "nom" "m" "bread" NA NA
+"gâteau" "nom" "m" "cake" NA NA
+"poivre" "nom" "m" "pepper" NA NA
+"poulet" "nom" "m" "chicken" NA NA
+"sel" "nom" "m" "salt" NA NA
+"bœuf" "nom" "m" "beef" NA NA
+"jus" "nom" "m" "juice" NA NA
+"œuf" "nom" "m" "egg" NA NA
+"évidemment" "adverbe" NA "obviously" NA NA
+"chocolat" "nom" "m" "chocolate" NA NA
+"huile" "nom" "f" "oil" NA NA
+"avec" "préposition" NA "with" NA NA
+"citron" "nom" "m" "lemon" NA NA
+"salade" "nom" "f" "salad" NA NA
+"chien" "nom" "m" "dog" NA NA
+"éléphant" "nom" "m" "elephant" NA NA
+"cheval" "nom" "f" "horse" NA NA
+"oiseau" "nom" "m" "bird" NA NA
+"exactement" "adverb" NA "exactly" NA NA
+"chatte" "nom" "f" "cat" NA NA
+"chat" "nom" "m" "cat" NA NA
+"pomme" "nom" "f" "apple" NA NA
+"ours" "nom" "m" "bear" NA NA
+"vache" "nom" "f" "cow" NA NA
+"tigre" "nom" "m" "tiger" NA NA
+"serpent" "nom" "f" "snake" NA NA
+"requin" "nom" "m" "shark" NA NA
+"dauphin" "nom" "m" "dolphin" NA NA
+"araignée" "nom" "f" "spider" NA NA
+"abeille" "nom" "f" "bee" NA NA
+"singe" "nom" "m" "monkey" NA NA
+"souris" "nom" "f" "mouse" NA NA
+"lion" "nom" "m" "lion" NA NA
+"mouche" "nom" "m" "fly" NA NA
+"cochon" "nom" "m" "pig" NA NA
+"loup" "nom" "m" "wolf" NA NA
+"papillon" "nom" "m" "butterfly" NA NA
+"baleine" "nom" "f" "whale" NA NA
+"fourmi" "nom" "f" "ant" NA NA
+"la poule" "nom" NA "the hen" NA NA
+"le lapin" "nom" NA "the rabbit" NA NA
+"le canard" "nom" NA "the duck" NA NA
+"froid" "dddd" NA "cold" NA NA
+"le thé" "nom" NA "the tea" NA NA
+"chaud" "adjectif" "m" "hot" NA NA
+"chaude" "adjectif" "f" "hot" NA NA
+"robe" "nom" "f" "dress" NA NA
+"petit" "adjectif" "m" "small" NA NA
+"petite" "adjectif" "f" "small" NA NA
+"vin" "nom" "m" "wine" NA NA
+"tomate" "nom" "f" "tommato" NA NA
+"joli" "adjectif" "m" "nice; pretty" NA NA
+"jolie" "adjectif" "f" "nice; pretty" NA NA
+"grand" "adjectif" "m" "big; tall" NA NA
+"jeune" "adjectif" NA "young" NA NA
+"vieux" "adjectif" "m" "old" NA NA
+"vieille" "adjectif" "f" "old" NA NA
+"fraise" "nom" "f" "strawberry" NA NA
+"légumes" "nom" "m" "vegetables" NA NA
+"frites" "nom" "f" "fries" NA NA
+"haricot" "nom" "m" "bean" NA NA
+"pâtes" "nom" "f" "pasta" NA NA
+"tournée" "nom" "f" "tour" NA NA
+"tortue" "nom" "f" "turtle" NA NA
+"pantalon" "nom" "m" "pants" NA NA
+"chaussures" "nom" "f" "shoes" NA NA
+"ceinture" "nom" "f" "belt" NA NA
+"vêtements" "nom" "m" "clothes" NA NA
+"sac" "nom" "m" "bag" NA NA
+"jupe" "nom" "f" "skirt" NA NA
+"chemise" "nom" "f" "shirt" NA NA
+"chaussettes" "nom" "f" "socks" NA NA
+"costume" "nom" "m" "suit" NA NA
+"portefeuille" "nom" "m" "wallet" NA NA
+"bottes" "nom" "f" "boots" NA NA
+"chapeau" "nom" "m" "hat" NA NA
+"manteau" "nom" "m" "coat" NA NA
+"gants" "nom" "m" "gloves" NA NA
+"cravate" "nom" "f" "tie" NA NA
+"très bien" "adjectif" "m" "fine" NA NA
+"putain !" NA NA NA NA NA
+"Tais-toi !" NA NA NA NA NA
+"pourquoi" "adverbe" NA "why" NA NA
+
+#######################################################################################
