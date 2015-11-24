@@ -1,4 +1,5 @@
-if(!exists("foo", mode="function")) source("./R/functions.R")
+if(!exists("foo", mode="function")) source("./functions.R")
 app()
-#num()
+
+
 
