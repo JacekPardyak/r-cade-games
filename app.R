@@ -1,5 +1,5 @@
 if(!exists("foo", mode="function")) source("./functions.R")
-app()
+# app(dictionary)
 
-
+app(numerals)
 

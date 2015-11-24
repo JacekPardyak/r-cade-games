@@ -1,0 +1,96 @@
+"English" "French" "Word.type" "Example" "Translation"
+"zero" "zéro" "cardinal number" 0 0
+"one" "un" "cardinal number" 1 1
+"two" "deux" "cardinal number" 2 2
+"three" "trois" "cardinal number" 3 3
+"four" "quatre" "cardinal number" 4 4
+"five" "cinq" "cardinal number" 5 5
+"six" "six" "cardinal number" 6 6
+"seven" "sept" "cardinal number" 7 7
+"eight" "huit" "cardinal number" 8 8
+"night" "neuf" "cardinal number" 9 9
+"ten" "dix" "cardinal number" 10 10
+"eleven" "onze" "cardinal number" 11 11
+"twelve" "douze" "cardinal number" 12 12
+"thirteen" "treize" "cardinal number" 13 13
+"fourteen" "quatorze" "cardinal number" 14 14
+"fifteen" "quinze" "cardinal number" 15 15
+"sixteen" "seize" "cardinal number" 16 16
+"seventeen" "dix-sept" "cardinal number" NA NA
+"eighteen" "dix-huit" "cardinal number" NA NA
+"nineteen" "dix-neuf" "cardinal number" NA NA
+"twenty" "vingt" "cardinal number" NA NA
+"twenty-one" "vingt et un" "cardinal number" NA NA
+"twenty-two" "vingt-deux" "cardinal number" NA NA
+"thirty" "trente" "cardinal number" NA NA
+"forty" "quarante" "cardinal number" NA NA
+"fifty" "cinquante" "cardinal number" NA NA
+"sixty" "soixante" "cardinal number" NA NA
+"seventy" "soixante-dix" "cardinal number" NA NA
+"seventy-one" "soixante et onze" "cardinal number" NA NA
+"seventy-two" "soixante-douze" "cardinal number" NA NA
+"eighty" "quatre-vingts" "cardinal number" NA NA
+"eighty-one" "quatre-vingt-un" "cardinal number" NA NA
+"ninety" "quatre-vingt-dix" "cardinal number" NA NA
+"ninety-one" "quatre-vingt-onze" "cardinal number" NA NA
+"hundred" "cent" "cardinal number" NA NA
+"hundred one" "cent un" "cardinal number" NA NA
+"hundred twenty" "cent vingt" "cardinal number" NA NA
+"two hundred" "deux cents" "cardinal number" NA NA
+"three hundred" "trois cents" "cardinal number" NA NA
+"four hundred" "quatre cents" "cardinal number" NA NA
+"five hundred" "cinq cents" "cardinal number" NA NA
+"six hundred" "six cents" "cardinal number" NA NA
+"seven hundred" "sept cents" "cardinal number" NA NA
+"eight hundred" "huit cents" "cardinal number" NA NA
+"nine hundred" "neuf cents" "cardinal number" NA NA
+"thousand" "mille" "cardinal number" NA NA
+"two thousand" "deux mille" "cardinal number" NA NA
+"million" "million" "cardinal number" NA NA
+"billion" "milliard" "cardinal number" NA NA
+"first" "premier" "ordinal number" NA NA
+"second" "deuxième" "ordinal number" NA NA
+"third" "troisième" "ordinal number" NA NA
+"fourth" "quatrième" "ordinal number" NA NA
+"fifth" "cinquième" "ordinal number" NA NA
+"sixth" "sixième" "ordinal number" NA NA
+"seventh" "septième" "ordinal number" NA NA
+"eighth" "huitième" "ordinal number" NA NA
+"ninth" "neuvième" "ordinal number" NA NA
+"tenth" "dixième" "ordinal number" NA NA
+"eleventh" "onzième" "ordinal number" NA NA
+"twelfth" "douzième" "ordinal number" NA NA
+"thirteenth" "treizième" "ordinal number" NA NA
+"fourteenth" "quatorzième" "ordinal number" NA NA
+"fifteenth" "quinzième" "ordinal number" NA NA
+"sixteenth" "seizième" "ordinal number" NA NA
+"seventeenth" "dix-septième" "ordinal number" NA NA
+"eighteenth" "dix-huitième" "ordinal number" NA NA
+"nineteenth" "dix-neuvième" "ordinal number" NA NA
+"twentieth" "vingtième" "ordinal number" NA NA
+"twenty-first" "vingt et unième" "ordinal number" NA NA
+"twenty-second" "vingt-deuxième" "ordinal number" NA NA
+"twenty-eighth" "vingt-huitième" "ordinal number" 28 28
+"thirtieth" "trentième" "ordinal number" 30 30
+"fortieth" "quarantième" "ordinal number" 40 40
+"fiftieth" "cinquantième" "ordinal number" 50 50
+"sixtieth" "soixantième" "ordinal number" 60 60
+"seventieth" "soixante-dixième" "ordinal number" 70 70
+"seventy-first" "soixante et onzième" "ordinal number" 71 71
+"seventy-second" "soixante-douzième" "ordinal number" 72 72
+"eightieth" "quatre-vingtième" "ordinal number" 80 80
+"eighty-first " "quatre-vingt-unième" "ordinal number" 81 81
+"ninetieth" "quatre-vingt-dixième" "ordinal number" 90 90
+"ninety-first" "quatre-vingt-onzième" "ordinal number" 91 91
+"hundredth" "centième" "ordinal number" 100 100
+"hundred and first " "cent unième" "ordinal number" 101 101
+"hundred and twentieth" "cent vingtième" "ordinal number" 120 120
+"two hundredth" "deux centième" "ordinal number" 200 200
+"three hundredth" "trois centième" "ordinal number" 300 300
+"four hundredth" "quatre centième" "ordinal number" 400 400
+"five hundredth" "cinq centième" "ordinal number" 500 500
+"six hundredth" "six centième" "ordinal number" 600 600
+"seven hundredth" "sept centième" "ordinal number" 700 700
+"eight hundredth" "huit centième" "ordinal number" 800 800
+"nine hundredth" "neuf centième" "ordinal number" 900 900
+"thousandth" "millième" "ordinal number" 1000 1000
