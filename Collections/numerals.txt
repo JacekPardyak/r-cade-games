@@ -16,7 +16,7 @@
 "fourteen" "quatorze" "cardinal number" 14 14
 "fifteen" "quinze" "cardinal number" 15 15
 "sixteen" "seize" "cardinal number" 16 16
-"seventeen" "dix-sept" "cardinal number" NA NA
+"seventeen" "dix-sept" "cardinal number" 17 17
 "eighteen" "dix-huit" "cardinal number" NA NA
 "nineteen" "dix-neuf" "cardinal number" NA NA
 "twenty" "vingt" "cardinal number" NA NA
@@ -57,19 +57,19 @@
 "seventh" "septième" "ordinal number" NA NA
 "eighth" "huitième" "ordinal number" NA NA
 "ninth" "neuvième" "ordinal number" NA NA
-"tenth" "dixième" "ordinal number" NA NA
-"eleventh" "onzième" "ordinal number" NA NA
-"twelfth" "douzième" "ordinal number" NA NA
-"thirteenth" "treizième" "ordinal number" NA NA
-"fourteenth" "quatorzième" "ordinal number" NA NA
-"fifteenth" "quinzième" "ordinal number" NA NA
-"sixteenth" "seizième" "ordinal number" NA NA
-"seventeenth" "dix-septième" "ordinal number" NA NA
-"eighteenth" "dix-huitième" "ordinal number" NA NA
-"nineteenth" "dix-neuvième" "ordinal number" NA NA
-"twentieth" "vingtième" "ordinal number" NA NA
-"twenty-first" "vingt et unième" "ordinal number" NA NA
-"twenty-second" "vingt-deuxième" "ordinal number" NA NA
+"tenth" "dixième" "ordinal number" 10 10
+"eleventh" "onzième" "ordinal number" 11 11
+"twelfth" "douzième" "ordinal number" 12 12
+"thirteenth" "treizième" "ordinal number" 13 13
+"fourteenth" "quatorzième" "ordinal number" 14 14
+"fifteenth" "quinzième" "ordinal number" 15 15
+"sixteenth" "seizième" "ordinal number" 16 16
+"seventeenth" "dix-septième" "ordinal number" 17 17
+"eighteenth" "dix-huitième" "ordinal number" 18 18
+"nineteenth" "dix-neuvième" "ordinal number" 19 19
+"twentieth" "vingtième" "ordinal number" 20 20
+"twenty-first" "vingt et unième" "ordinal number" 21 21
+"twenty-second" "vingt-deuxième" "ordinal number" 22 22
 "twenty-eighth" "vingt-huitième" "ordinal number" 28 28
 "thirtieth" "trentième" "ordinal number" 30 30
 "fortieth" "quarantième" "ordinal number" 40 40
