@@ -5,13 +5,6 @@ author: "Jacek Pardyak"
 date: "`r Sys.Date()`"
 output:
   tufte::tufte_html: default
-  tufte::tufte_handout:
-    citation_package: natbib
-    latex_engine: xelatex
-  tufte::tufte_book:
-    citation_package: natbib
-    latex_engine: xelatex
-bibliography: skeleton.bib
 link-citations: yes
 ---
 
@@ -31,17 +24,18 @@ When I started learning Dutch I couldn't find **R project** which will support m
 Vocabulary covers material from `r newthought('De opmaat, Naar NT2-niveau A2')`^[[De opmaat, Naar NT2-niveau A2](https://www.nt2.nl/en/100-37_De-opmaat)] and is stored in JSON file. I'm also continuously enlarging the dataset.
 
 ```{r De opmat, fig.margin = TRUE, fig.cap = "The book cover page. Source: https://www.nt2.nl/ ", fig.width=3.5, fig.height=7, cache=TRUE, message=FALSE, echo=FALSE}
-knitr::include_graphics("./3d_-_9789085067238_-_omslag_-_de_opmaat_es.png")
+knitr::include_graphics("./pics/3d_-_9789085067238_-_omslag_-_de_opmaat_es.png")
 ```
 
 The reason why I have chosen *JSON* in favour of *CSV* is that I'm using *list* data type to store *Worden* (more then one translation) and *Thema* number (one word can appear with a different context more then once). The structure is:
 
-```{r, echo=FALSE}
+```{r, echo=FALSE, cache=TRUE}
 library(jsonlite)
 wordlist <- fromJSON(txt = "./App/wordlist.json")
 objects <- wordlist[1:3,]
 text <- toJSON(objects, pretty = T)
 print(text)
+# f
 ```
 
 An disadvantage of this approach is data frames are not sortable.

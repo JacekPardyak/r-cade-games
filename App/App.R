@@ -65,6 +65,9 @@ shinyApp(
         tags$b(textOutput("score")),
         # present table ========
         DTOutput('x1')
+#,
+# test
+#textOutput("test")
       )
     )
   ),
@@ -135,12 +138,12 @@ shinyApp(
       saveData(wordlist)
     })
     # load changed data from file =======
-    observeEvent(input$loadButton, {
-      wordlist <- loadData(x)
-    })
+   observeEvent(input$loadButton, { 
+     wordlist <- loadData(x)  
+     })
     
     
-    # render DT table
+    # render DT table ======
     output$x1 = renderDT(wordlist,
                          selection = 'none',
                          editable = TRUE)
@@ -156,5 +159,24 @@ shinyApp(
       wordlist[i, j] <<- DT::coerceValue(v, wordlist[i, j])
       replaceData(proxy, wordlist, resetPaging = FALSE)  # important
     })
+    # save changes to file =======
+    observeEvent(input$checkButton, {
+ #     langTo   <- c("NL", "EN")[!c("NL", "EN") == input$lang]    
+      word <- row()[1, input$lang][[1]][1]
+      rowIndex <- sapply(wordlist[,input$lang], function(x) {word %in% x})
+  #    rowIndex <- wordlist[,input$lang] == word
+     # rowIndex <- match(TRUE, rowList)
+      
+      output$x1 = renderDT(wordlist[rowIndex,],
+                           selection = 'none',
+                           editable = TRUE)
+      
+      
+    })    
+    
+   observeEvent(input$generButton, {
+ output$test <- renderText(row()[1, input$lang][[1]][1])
+   })
+    
   }
 )
