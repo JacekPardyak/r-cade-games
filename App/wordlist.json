@@ -1740,8 +1740,7 @@
     "EN": ["to live"],
     "PL": ["mieszkać"],
     "Kn": "TRUE",
-    "Ar": "in a house, city",
-    "Ex": ""
+    "Ex": "Ik woon in Den Haag. Hij woont in a huis."
   },
   {
     "Th": [1, 2],
@@ -8267,7 +8266,7 @@
   {
     "Th": [5],
     "NL": ["vorig"],
-    "EN": ["last, previous"],
+    "EN": ["last", "previous"],
     "PL": [],
     "Kn": "FALSE",
     "Ex": ""
@@ -8564,7 +8563,7 @@
     "Th": [6],
     "NL": ["behanger"],
     "EN": ["paperhanger"],
-    "PL": [],
+    "PL": ["tapeciarz"],
     "Kn": "FALSE",
     "Ar": "de; -s",
     "Ex": ""
@@ -9247,7 +9246,7 @@
   {
     "Th": [6, 10],
     "NL": ["onderhouden"],
-    "EN": ["maintain", "keep"],
+    "EN": ["to maintain", "to keep"],
     "PL": [],
     "Kn": "FALSE",
     "Ex": ""
@@ -9621,7 +9620,7 @@
     "Th": [6],
     "NL": ["tegelzetter"],
     "EN": ["tiler"],
-    "PL": [],
+    "PL": ["płytkarz"],
     "Kn": "FALSE",
     "Ar": "de, -s",
     "Ex": ""
@@ -10193,7 +10192,7 @@
   {
     "Th": [7],
     "NL": ["borst"],
-    "EN": ["chest; breast"],
+    "EN": ["chest", "breast"],
     "PL": [],
     "Kn": "FALSE",
     "Ar": "de",
@@ -10220,7 +10219,7 @@
   {
     "Th": [7],
     "NL": ["braden"],
-    "EN": ["to roast, to fry"],
+    "EN": ["to roast", "to fry"],
     "PL": [],
     "Kn": "FALSE",
     "Ex": ""
@@ -10236,7 +10235,7 @@
   {
     "Th": [7],
     "NL": ["buik"],
-    "EN": ["belly, abdomen"],
+    "EN": ["belly", "abdomen"],
     "PL": [],
     "Kn": "FALSE",
     "Ar": "de; -en",
@@ -10288,7 +10287,7 @@
   {
     "Th": [7],
     "NL": ["dokter"],
-    "EN": ["doctor, physician"],
+    "EN": ["doctor", "physician"],
     "PL": [],
     "Kn": "FALSE",
     "Ar": "de; -s",
@@ -10491,7 +10490,7 @@
   {
     "Th": [7],
     "NL": ["gewoon"],
-    "EN": ["normal, common"],
+    "EN": ["normal", "common"],
     "PL": [],
     "Kn": "FALSE",
     "Ex": ""
@@ -10561,7 +10560,7 @@
   {
     "Th": [7],
     "NL": ["helemaal"],
-    "EN": ["completely, totally"],
+    "EN": ["completely", "totally"],
     "PL": [],
     "Kn": "FALSE",
     "Ex": ""
@@ -10614,7 +10613,7 @@
   {
     "Th": [7],
     "NL": ["hinkelen"],
-    "EN": ["to hop, to limp"],
+    "EN": ["to hop", "to limp"],
     "PL": [],
     "Kn": "FALSE",
     "Ex": ""
@@ -10622,7 +10621,7 @@
   {
     "Th": [7],
     "NL": ["hoeveelheid"],
-    "EN": ["quantity, amount"],
+    "EN": ["quantity", "amount"],
     "PL": [],
     "Kn": "FALSE",
     "Ar": "de; hoeveelheden",
@@ -10701,7 +10700,7 @@
   {
     "Th": [7],
     "NL": ["inclusief"],
-    "EN": ["including, inclusive"],
+    "EN": ["including", "inclusive"],
     "PL": [],
     "Kn": "FALSE",
     "Ex": ""
@@ -10717,7 +10716,7 @@
   {
     "Th": [7],
     "NL": ["innemen"],
-    "EN": ["to take in, to swallow"],
+    "EN": ["to take in", "to swallow"],
     "PL": [],
     "Kn": "FALSE",
     "Ex": ""
@@ -10743,7 +10742,7 @@
   {
     "Th": [7],
     "NL": ["instappen"],
-    "EN": ["to get in, to step into"],
+    "EN": ["to get in", "to step into"],
     "PL": [],
     "Kn": "FALSE",
     "Ex": ""
@@ -10967,7 +10966,7 @@
   {
     "Th": [7],
     "NL": ["manier"],
-    "EN": ["way, manner"],
+    "EN": ["way", "manner"],
     "PL": [],
     "Kn": "FALSE",
     "Ar": "de; -en",
@@ -11009,7 +11008,7 @@
   {
     "Th": [7],
     "NL": ["minimaal"],
-    "EN": ["minimal, at least"],
+    "EN": ["minimal", "at least"],
     "PL": [],
     "Kn": "FALSE",
     "Ex": ""
@@ -11105,7 +11104,7 @@
   {
     "Th": [7],
     "NL": ["opbellen"],
-    "EN": ["to call, to phone"],
+    "EN": ["to call", "to phone"],
     "PL": [],
     "Kn": "FALSE",
     "Ex": ""
@@ -11153,7 +11152,7 @@
   {
     "Th": [7],
     "NL": ["pas"],
-    "EN": ["only, not longer than"],
+    "EN": ["only", "not longer than"],
     "PL": [],
     "Kn": "FALSE",
     "Ex": ""
@@ -11410,7 +11409,7 @@
   {
     "Th": [7],
     "NL": ["tablet"],
-    "EN": ["tablet, pill"],
+    "EN": ["tablet", "pill"],
     "PL": [],
     "Kn": "FALSE",
     "Ar": "het & de; -ten",
@@ -11428,7 +11427,7 @@
   {
     "Th": [7],
     "NL": ["terugbrengen"],
-    "EN": ["to return, to bring back"],
+    "EN": ["to return", "to bring back"],
     "PL": [],
     "Kn": "FALSE",
     "Ex": ""
@@ -11436,7 +11435,7 @@
   {
     "Th": [7],
     "NL": ["terugkomen"],
-    "EN": ["to return, to come back"],
+    "EN": ["to return", "to come back"],
     "PL": [],
     "Kn": "FALSE",
     "Ex": ""
@@ -11469,7 +11468,7 @@
   {
     "Th": [7],
     "NL": ["trommelvlies"],
-    "EN": ["tympanum, eardrum"],
+    "EN": ["tympanum", "eardrum"],
     "PL": [],
     "Kn": "FALSE",
     "Ar": "het; -zen",
@@ -11688,7 +11687,7 @@
   {
     "Th": [7],
     "NL": ["wijsvinger"],
-    "EN": ["forefinger, index"],
+    "EN": ["forefinger", "index"],
     "PL": [],
     "Kn": "FALSE",
     "Ar": "de; -s",
@@ -11715,7 +11714,7 @@
   {
     "Th": [7],
     "NL": ["zalf"],
-    "EN": ["ointment, cream"],
+    "EN": ["ointment", "cream"],
     "PL": [],
     "Kn": "FALSE",
     "Ar": "de; zalven",
@@ -11773,7 +11772,7 @@
   {
     "Th": [8],
     "NL": ["alledaags"],
-    "EN": ["every-day, ordinary"],
+    "EN": ["every-day", "ordinary"],
     "PL": [],
     "Kn": "FALSE",
     "Ex": ""
@@ -11781,7 +11780,7 @@
   {
     "Th": [8],
     "NL": ["allemaal"],
-    "EN": ["all, all together"],
+    "EN": ["all", "all together"],
     "PL": [],
     "Kn": "FALSE",
     "Ex": ""
@@ -11920,7 +11919,7 @@
   {
     "Th": [8],
     "NL": ["bovendien"],
-    "EN": ["besides, moreover"],
+    "EN": ["besides", "moreover"],
     "PL": [],
     "Kn": "FALSE",
     "Ex": ""
@@ -11936,7 +11935,7 @@
   {
     "Th": [8],
     "NL": ["bril"],
-    "EN": ["spectacles, pair of glasses"],
+    "EN": ["spectacles", "pair of glasses"],
     "PL": [],
     "Kn": "FALSE",
     "Ar": "de; brillen",
@@ -11963,7 +11962,7 @@
   {
     "Th": [8],
     "NL": ["catastrofe"],
-    "EN": ["catastrophy, disaster"],
+    "EN": ["catastrophy", "disaster"],
     "PL": [],
     "Kn": "FALSE",
     "Ar": "de; -s",
@@ -12210,7 +12209,7 @@
   {
     "Th": [8],
     "NL": ["gemeenschappelijk"],
-    "EN": ["joint, together"],
+    "EN": ["joint", "together"],
     "PL": [],
     "Kn": "FALSE",
     "Ex": ""
@@ -12276,7 +12275,7 @@
   {
     "Th": [8],
     "NL": ["halen"],
-    "EN": ["to get, to fetch"],
+    "EN": ["to get", "to fetch"],
     "PL": [],
     "Kn": "FALSE",
     "Ex": ""
@@ -12334,7 +12333,7 @@
   {
     "Th": [8],
     "NL": ["hoezo"],
-    "EN": ["why, what for"],
+    "EN": ["why", "what for"],
     "PL": [],
     "Kn": "FALSE",
     "Ex": ""
@@ -12366,7 +12365,7 @@
   {
     "Th": [8],
     "NL": ["inschrijven"],
-    "EN": ["to register, to enroll"],
+    "EN": ["to register", "to enroll"],
     "PL": [],
     "Kn": "FALSE",
     "Ex": ""
@@ -12483,7 +12482,7 @@
   {
     "Th": [8],
     "NL": ["lastig"],
-    "EN": ["annoying, troublesome"],
+    "EN": ["annoying", "troublesome"],
     "PL": [],
     "Kn": "FALSE",
     "Ex": ""
@@ -12533,7 +12532,7 @@
   {
     "Th": [8],
     "NL": ["liefje"],
-    "EN": ["sweetheart, darling"],
+    "EN": ["sweetheart", "darling"],
     "PL": [],
     "Kn": "FALSE",
     "Ar": "het; -s",
@@ -12550,7 +12549,7 @@
   {
     "Th": [8],
     "NL": ["mager"],
-    "EN": ["lean, thin"],
+    "EN": ["lean", "thin"],
     "PL": [],
     "Kn": "FALSE",
     "Ex": ""
@@ -12607,7 +12606,7 @@
   {
     "Th": [8],
     "NL": ["mollig"],
-    "EN": ["plumb, fat"],
+    "EN": ["plumb", "fat"],
     "PL": [],
     "Kn": "FALSE",
     "Ex": ""
@@ -12640,7 +12639,7 @@
   {
     "Th": [8],
     "NL": ["nieuwsgierig"],
-    "EN": ["curious, inquisitive"],
+    "EN": ["curious", "inquisitive"],
     "PL": [],
     "Kn": "FALSE",
     "Ex": ""
@@ -12656,7 +12655,7 @@
   {
     "Th": [8],
     "NL": ["onbeschoft"],
-    "EN": ["impertinent, rude"],
+    "EN": ["impertinent", "rude"],
     "PL": [],
     "Kn": "FALSE",
     "Ex": ""
@@ -12916,7 +12915,7 @@
   {
     "Th": [8],
     "NL": ["scheiding"],
-    "EN": ["separation, divorce"],
+    "EN": ["separation", "divorce"],
     "PL": [],
     "Kn": "FALSE",
     "Ar": "de; -en",
@@ -12950,7 +12949,7 @@
   {
     "Th": [8],
     "NL": ["slordig"],
-    "EN": ["sloppy, careless"],
+    "EN": ["sloppy", "careless"],
     "PL": [],
     "Kn": "FALSE",
     "Ex": ""
@@ -12990,7 +12989,7 @@
   {
     "Th": [8],
     "NL": ["spannend"],
-    "EN": ["exciting, thrilling"],
+    "EN": ["exciting", "thrilling"],
     "PL": [],
     "Kn": "FALSE",
     "Ex": ""
@@ -13039,7 +13038,7 @@
   {
     "Th": [8],
     "NL": ["stevig"],
-    "EN": ["stong, solid"],
+    "EN": ["stong", "solid"],
     "PL": [],
     "Kn": "FALSE",
     "Ex": ""
@@ -13056,7 +13055,7 @@
   {
     "Th": [8],
     "NL": ["tegenkomen"],
-    "EN": ["to meet, to encounter"],
+    "EN": ["to meet", "to encounter"],
     "PL": [],
     "Kn": "FALSE",
     "Ex": ""
@@ -13106,7 +13105,7 @@
   {
     "Th": [8],
     "NL": ["uitstapje"],
-    "EN": ["excursion, trip"],
+    "EN": ["excursion", "trip"],
     "PL": [],
     "Kn": "FALSE",
     "Ar": "het; -s",
@@ -13234,7 +13233,7 @@
   {
     "Th": [8],
     "NL": ["voorbij"],
-    "EN": ["past; over, at an end"],
+    "EN": ["past; over", "at an end"],
     "PL": [],
     "Kn": "FALSE",
     "Ex": ""
@@ -13251,7 +13250,7 @@
   {
     "Th": [8],
     "NL": ["voorlopig"],
-    "EN": ["provisional, for the present"],
+    "EN": ["provisional", "for the present"],
     "PL": [],
     "Kn": "FALSE",
     "Ex": ""
@@ -13384,7 +13383,7 @@
   {
     "Th": [9],
     "NL": ["accountant"],
-    "EN": ["accountant, auditor"],
+    "EN": ["accountant", "auditor"],
     "PL": [],
     "Kn": "FALSE",
     "Ar": "de; -s",
@@ -13401,7 +13400,7 @@
   {
     "Th": [9],
     "NL": ["advocaat"],
-    "EN": ["lawyer, solicitor"],
+    "EN": ["lawyer", "solicitor"],
     "PL": [],
     "Kn": "FALSE",
     "Ar": "de; advocaten",
@@ -13419,7 +13418,7 @@
   {
     "Th": [9],
     "NL": ["agent"],
-    "EN": ["agent, policeman"],
+    "EN": ["agent", "policeman"],
     "PL": [],
     "Kn": "FALSE",
     "Ar": "de; -en",
@@ -13464,7 +13463,7 @@
   {
     "Th": [9],
     "NL": ["baas"],
-    "EN": ["boss, manager"],
+    "EN": ["boss", "manager"],
     "PL": [],
     "Kn": "FALSE",
     "Ar": "de; bazen",
@@ -13491,7 +13490,7 @@
   {
     "Th": [9],
     "NL": ["barman"],
-    "EN": ["bartender, barkeeper"],
+    "EN": ["bartender", "barkeeper"],
     "PL": [],
     "Kn": "FALSE",
     "Ar": "de; barmannen",
@@ -13542,7 +13541,7 @@
   {
     "Th": [9],
     "NL": ["bereiken"],
-    "EN": ["to reach, to achieve"],
+    "EN": ["to reach", "to achieve"],
     "PL": [],
     "Kn": "FALSE",
     "Ex": ""
@@ -13619,7 +13618,7 @@
   {
     "Th": [9],
     "NL": ["boeiend"],
-    "EN": ["fascinating, exciting"],
+    "EN": ["fascinating", "exciting"],
     "PL": [],
     "Kn": "FALSE",
     "Ex": ""
@@ -13672,7 +13671,7 @@
   {
     "Th": [9],
     "NL": ["burgemeester"],
-    "EN": ["mayor, burgomaster"],
+    "EN": ["mayor", "burgomaster"],
     "PL": [],
     "Kn": "FALSE",
     "Ar": "de; -s",
@@ -13813,7 +13812,7 @@
   {
     "Th": [9],
     "NL": ["dominee"],
-    "EN": ["vicar, minister"],
+    "EN": ["vicar", "minister"],
     "PL": [],
     "Kn": "FALSE",
     "Ar": "de; -s",
@@ -13838,7 +13837,7 @@
   {
     "Th": [9],
     "NL": ["doorverbinden"],
-    "EN": ["to connect, to put through"],
+    "EN": ["to connect", "to put through"],
     "PL": [],
     "Kn": "FALSE",
     "Ex": ""
@@ -13854,7 +13853,7 @@
   {
     "Th": [9],
     "NL": ["dutje"],
-    "EN": ["nap, doze"],
+    "EN": ["nap", "doze"],
     "PL": [],
     "Kn": "FALSE",
     "Ar": "het; -s",
@@ -13932,7 +13931,7 @@
   {
     "Th": [9],
     "NL": ["fotomodel"],
-    "EN": ["cover-girl, model"],
+    "EN": ["cover-girl", "model"],
     "PL": [],
     "Kn": "FALSE",
     "Ar": "het; -en",
@@ -14117,7 +14116,7 @@
   {
     "Th": [9],
     "NL": ["instellen"],
-    "EN": ["to adjust, to set"],
+    "EN": ["to adjust", "to set"],
     "PL": [],
     "Kn": "FALSE",
     "Ex": ""
@@ -14151,7 +14150,7 @@
   {
     "Th": [9],
     "NL": ["jazeker"],
-    "EN": ["yes, certainly"],
+    "EN": ["yes", "certainly"],
     "PL": [],
     "Kn": "FALSE",
     "Ex": ""
@@ -14194,7 +14193,7 @@
   {
     "Th": [9],
     "NL": ["kenmerk"],
-    "EN": ["characteristic, feature"],
+    "EN": ["characteristic", "feature"],
     "PL": [],
     "Kn": "FALSE",
     "Ar": "het; -en",
@@ -14265,7 +14264,7 @@
   {
     "Th": [9],
     "NL": ["leidinggevende"],
-    "EN": ["manager, person in charge"],
+    "EN": ["manager", "person in charge"],
     "PL": [],
     "Kn": "FALSE",
     "Ar": "de; -n",
@@ -14292,7 +14291,7 @@
   {
     "Th": [9],
     "NL": ["loon"],
-    "EN": ["wages, salary"],
+    "EN": ["wages", "salary"],
     "PL": [],
     "Kn": "FALSE",
     "Ar": "het; lonen",
@@ -14336,7 +14335,7 @@
   {
     "Th": [9],
     "NL": ["medewerk(st)er"],
-    "EN": ["co-worker, employee"],
+    "EN": ["co-worker", "employee"],
     "PL": [],
     "Kn": "FALSE",
     "Ar": "de; -s",
@@ -14433,7 +14432,7 @@
   {
     "Th": [9],
     "NL": ["noteren"],
-    "EN": ["to note down, make a note"],
+    "EN": ["to note down", "make a note"],
     "PL": [],
     "Kn": "FALSE",
     "Ex": ""
@@ -14485,7 +14484,7 @@
   {
     "Th": [9],
     "NL": ["opleiding"],
-    "EN": ["education, studies"],
+    "EN": ["education", "studies"],
     "PL": [],
     "Kn": "FALSE",
     "Ar": "de; -en",
@@ -14520,7 +14519,7 @@
   {
     "Th": [9],
     "NL": ["pakket"],
-    "EN": ["parcel, packet"],
+    "EN": ["parcel", "packet"],
     "PL": [],
     "Kn": "FALSE",
     "Ar": "het; pakketten",
@@ -14537,7 +14536,7 @@
   {
     "Th": [9],
     "NL": ["pastoor"],
-    "EN": ["priest, rector"],
+    "EN": ["priest", "rector"],
     "PL": [],
     "Kn": "FALSE",
     "Ar": "de; -s",
@@ -14572,7 +14571,7 @@
   {
     "Th": [9],
     "NL": ["portier"],
-    "EN": ["porter, door keeper"],
+    "EN": ["porter", "door keeper"],
     "PL": [],
     "Kn": "FALSE",
     "Ar": "de; -s",
@@ -14675,7 +14674,7 @@
   {
     "Th": [9],
     "NL": ["schipper"],
-    "EN": ["bargeman, skipper"],
+    "EN": ["bargeman", "skipper"],
     "PL": [],
     "Kn": "FALSE",
     "Ar": "de; -s",
@@ -14755,7 +14754,7 @@
   {
     "Th": [9],
     "NL": ["stewardess"],
-    "EN": ["stewardess, air hostess"],
+    "EN": ["stewardess", "air hostess"],
     "PL": [],
     "Kn": "FALSE",
     "Ar": "de; -sen",
@@ -14926,7 +14925,7 @@
   {
     "Th": [9],
     "NL": ["voorlichting"],
-    "EN": ["information, guidance"],
+    "EN": ["information", "guidance"],
     "PL": [],
     "Kn": "FALSE",
     "Ar": "de; -",
@@ -15086,7 +15085,7 @@
   {
     "Th": [10],
     "NL": ["bewoner"],
-    "EN": ["inhabitant, resident"],
+    "EN": ["inhabitant", "resident"],
     "PL": [],
     "Kn": "FALSE",
     "Ar": "de; -s",
@@ -15095,7 +15094,7 @@
   {
     "Th": [10],
     "NL": ["bezweet"],
-    "EN": ["sweaty, perspiring"],
+    "EN": ["sweaty", "perspiring"],
     "PL": [],
     "Kn": "FALSE",
     "Ex": ""
@@ -15111,7 +15110,7 @@
   {
     "Th": [10],
     "NL": ["boeken"],
-    "EN": ["to book, to reserve"],
+    "EN": ["to book", "to reserve"],
     "PL": [],
     "Kn": "FALSE",
     "Ex": ""
@@ -15128,7 +15127,7 @@
   {
     "Th": [10],
     "NL": ["bos"],
-    "EN": ["wood, forest"],
+    "EN": ["wood", "forest"],
     "PL": [],
     "Kn": "FALSE",
     "Ar": "het; bossen",
@@ -15154,7 +15153,7 @@
   {
     "Th": [10],
     "NL": ["definitief"],
-    "EN": ["final, definite"],
+    "EN": ["final", "definite"],
     "PL": [],
     "Kn": "FALSE",
     "Ex": ""
@@ -15204,7 +15203,7 @@
   {
     "Th": [10],
     "NL": ["geest"],
-    "EN": ["spirit, ghost"],
+    "EN": ["spirit", "ghost"],
     "PL": [],
     "Kn": "FALSE",
     "Ar": "de; -en",
@@ -15300,7 +15299,7 @@
   {
     "Th": [10],
     "NL": ["jaarlijks"],
-    "EN": ["yearly, annual"],
+    "EN": ["yearly", "annual"],
     "PL": [],
     "Kn": "FALSE",
     "Ex": ""
@@ -15370,7 +15369,7 @@
   {
     "Th": [10],
     "NL": ["ligging"],
-    "EN": ["location, situation"],
+    "EN": ["location", "situation"],
     "PL": [],
     "Kn": "FALSE",
     "Ar": "de; -",
@@ -15506,7 +15505,7 @@
   {
     "Th": [10],
     "NL": ["straks"],
-    "EN": ["later today, soon"],
+    "EN": ["later today", "soon"],
     "PL": [],
     "Kn": "FALSE",
     "Ex": ""
@@ -15514,7 +15513,7 @@
   {
     "Th": [10],
     "NL": ["tegenwoordig"],
-    "EN": ["nowadays, at present"],
+    "EN": ["nowadays", "at present"],
     "PL": [],
     "Kn": "FALSE",
     "Ex": ""
@@ -15539,7 +15538,7 @@
   {
     "Th": [10],
     "NL": ["top"],
-    "EN": ["top, summit"],
+    "EN": ["top", "summit"],
     "PL": [],
     "Kn": "FALSE",
     "Ar": "de; toppen",
@@ -15556,7 +15555,7 @@
   {
     "Th": [10],
     "NL": ["uiteindelijk"],
-    "EN": ["in the end, finally"],
+    "EN": ["in the end", "finally"],
     "PL": [],
     "Kn": "FALSE",
     "Ex": ""
