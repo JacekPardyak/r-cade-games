@@ -1,12 +1,12 @@
 [
-    {
+  {
     "Th": [0],
     "NL": ["sjek", "sjekkie", "shag"],
     "EN": ["shag"],
     "PL": ["machorka"],
-    "Kn": "FALSE",
+    "Kn": "TRUE",
     "Ar": "de, de, het; ",
-    "Ex": "Ik wil graag JPS sjek."
+    "Ex": "Ik wil graag JPS sjek.OKe?"
   },
   {
     "Th": [0],
@@ -59,7 +59,7 @@
     "PL": [],
     "Kn": "TRUE",
     "Ar": "de; achternamen",
-    "Ex": ""
+    "Ex": "Mijn neef en ik hebben dezelfde achternaam."
   },
   {
     "Th": [1],
