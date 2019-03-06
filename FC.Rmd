@@ -51,7 +51,7 @@ At this moment I'm using Polish translations only for supportive reason.
 
 # The application
 
-The Shiny Application sources are available from my `r newthought('Github repository')`^[[https://github.com/JacekPardyak/FC](https://github.com/JacekPardyak/FC)]. The usage is straightforward. 
+The Shiny Application sources are available from my `r newthought('Github repository')`^[<a href="https://github.com/JacekPardyak/FC/" target="_blank">https://github.com/JacekPardyak/FC</a>]. The usage is straightforward. 
 
 
 # Further work
