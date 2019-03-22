@@ -1,0 +1,36 @@
+---
+title: "Onregelmatige werkwoorden"
+author: "Jacek Pardyak"
+date: "ver 1.0"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r, echo=FALSE}
+verbum <- jsonlite::fromJSON(
+  txt = paste(readLines("../verbum/werkwoorden.json",
+                        encoding = "UTF-8"),
+              collapse = ""))
+
+# Bij werkwoorden (*Infinitief*) staat de volgende extra informatie: de werkwoordvormen in onvoltooid verleden tijd (*Enkelvoud* en *Meervoud*) en voltooid tegenwoordige tijd (*Participium*) (‘heeft’ of ‘is’ + voltooid deelwoord). Plus Engelse vertaling. (Note: (*Enkelvoud* en *Meervoud*) zullen later worden toegevoegd.)
+```
+
+**Inf**: Infinitief; 
+**Par**: Participium; 
+**Ver**: Vertaling.
+
+```{r, echo=FALSE}
+for (i in 1:nrow(verbum)) {
+  cat(paste( "Inf:", verbum[i,1], "\n"))
+#  cat(paste( "Enk:", verbum[i,2], "\n"))
+#  cat(paste( "Mee:", verbum[i,3], "\n"))
+  cat(paste( "Par:", verbum[i,4], "\n"))
+  cat(paste( "Ver:", verbum[i,5], "\n"))
+  cat(paste( "###################", "\n"))
+}
+```
+

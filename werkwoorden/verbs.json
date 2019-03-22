@@ -1,0 +1,1028 @@
+[
+  {
+    "V1": "bakken",
+    "V2": "bakte",
+    "V3": "bakten",
+    "V4": "heeft gebakken",
+    "V5": "to bake, to fry",
+    "V6": 1,
+    "V7": "b"
+  },
+  {
+    "V1": "beginnen",
+    "V2": "begon",
+    "V3": "begonnen",
+    "V4": "is begonnen",
+    "V5": "to begin, to start",
+    "V6": 1,
+    "V7": "b"
+  },
+  {
+    "V1": "begrijpen",
+    "V2": "begreep",
+    "V3": "begrepen",
+    "V4": "heeft begrepen",
+    "V5": "to understand",
+    "V6": 1,
+    "V7": "b"
+  },
+  {
+    "V1": "bewegen",
+    "V2": "bewoog",
+    "V3": "bewogen",
+    "V4": "heeft bewogen",
+    "V5": "to move",
+    "V6": 1,
+    "V7": "b"
+  },
+  {
+    "V1": "bezoeken",
+    "V2": "bezocht",
+    "V3": "bezochten",
+    "V4": "heeft bezocht",
+    "V5": "to visit",
+    "V6": 1,
+    "V7": "b"
+  },
+  {
+    "V1": "bidden",
+    "V2": "bad",
+    "V3": "baden",
+    "V4": "heeft gebeden",
+    "V5": "to pray",
+    "V6": 1,
+    "V7": "b"
+  },
+  {
+    "V1": "bieden",
+    "V2": "bood",
+    "V3": "boden",
+    "V4": "heeft geboden",
+    "V5": "to offer",
+    "V6": 1,
+    "V7": "b"
+  },
+  {
+    "V1": "blijken",
+    "V2": "bleek",
+    "V3": "bleken",
+    "V4": "is gebleken",
+    "V5": "to appear",
+    "V6": 1,
+    "V7": "b"
+  },
+  {
+    "V1": "blijven",
+    "V2": "bleef",
+    "V3": "bleven",
+    "V4": "is gebleven",
+    "V5": "to stay",
+    "V6": 1,
+    "V7": "b"
+  },
+  {
+    "V1": "braden",
+    "V2": "braadde",
+    "V3": "braadden",
+    "V4": "heeft gebraden",
+    "V5": "to roast, to fry",
+    "V6": 1,
+    "V7": "b"
+  },
+  {
+    "V1": "breken",
+    "V2": "brak",
+    "V3": "braken",
+    "V4": "heeft gebroken",
+    "V5": "to break",
+    "V6": 1,
+    "V7": "b"
+  },
+  {
+    "V1": "brengen",
+    "V2": "bracht",
+    "V3": "brachten",
+    "V4": "heeft gebracht",
+    "V5": "to bring",
+    "V6": 1,
+    "V7": "b"
+  },
+  {
+    "V1": "denken",
+    "V2": "dacht",
+    "V3": "dachten",
+    "V4": "heeft gedacht",
+    "V5": "to think",
+    "V6": 1,
+    "V7": "d"
+  },
+  {
+    "V1": "doen",
+    "V2": "deed",
+    "V3": "deden",
+    "V4": "heeft gedaan",
+    "V5": "to do",
+    "V6": 1,
+    "V7": "d"
+  },
+  {
+    "V1": "dragen",
+    "V2": "droeg",
+    "V3": "droegen",
+    "V4": "heeft gedragen",
+    "V5": "to wear",
+    "V6": 1,
+    "V7": "d"
+  },
+  {
+    "V1": "drinken",
+    "V2": "dronk",
+    "V3": "dronken",
+    "V4": "heeft gedronken",
+    "V5": "to drink",
+    "V6": 1,
+    "V7": "d"
+  },
+  {
+    "V1": "duiken",
+    "V2": "dook",
+    "V3": "doken",
+    "V4": "heeft/is gedoken",
+    "V5": "to dive",
+    "V6": 1,
+    "V7": "d"
+  },
+  {
+    "V1": "ervaren",
+    "V2": "ervoer",
+    "V3": "ervoeren",
+    "V4": "heeft ervaren",
+    "V5": "to experience",
+    "V6": 1,
+    "V7": "e"
+  },
+  {
+    "V1": "eten",
+    "V2": "at",
+    "V3": "aten",
+    "V4": "heeft gegeten",
+    "V5": "to eat",
+    "V6": 1,
+    "V7": "e"
+  },
+  {
+    "V1": "fluiten",
+    "V2": "floot",
+    "V3": "floten",
+    "V4": "heeft gefloten",
+    "V5": "to whistle",
+    "V6": 1,
+    "V7": "f"
+  },
+  {
+    "V1": "gaan",
+    "V2": "ging",
+    "V3": "gingen",
+    "V4": "is gegaan",
+    "V5": "to go",
+    "V6": 1,
+    "V7": "g"
+  },
+  {
+    "V1": "gelden",
+    "V2": "gold",
+    "V3": "golden",
+    "V4": "heeft gegolden",
+    "V5": "to apply",
+    "V6": 1,
+    "V7": "g"
+  },
+  {
+    "V1": "genezen",
+    "V2": "genas",
+    "V3": "genazen",
+    "V4": "heeft/is genezen",
+    "V5": "to cure",
+    "V6": 1,
+    "V7": "g"
+  },
+  {
+    "V1": "genieten",
+    "V2": "genoot",
+    "V3": "genoten",
+    "V4": "heeft genoten",
+    "V5": "to enjoy",
+    "V6": 1,
+    "V7": "g"
+  },
+  {
+    "V1": "geven",
+    "V2": "gaf",
+    "V3": "gaven",
+    "V4": "heeft gegeven",
+    "V5": "to give",
+    "V6": 1,
+    "V7": "g"
+  },
+  {
+    "V1": "hangen",
+    "V2": "hing",
+    "V3": "hingen",
+    "V4": "heeft gehangen",
+    "V5": "to hang",
+    "V6": 1,
+    "V7": "h"
+  },
+  {
+    "V1": "hebben",
+    "V2": "had",
+    "V3": "hadden",
+    "V4": "heeft gehad",
+    "V5": "to have",
+    "V6": 1,
+    "V7": "h"
+  },
+  {
+    "V1": "helpen",
+    "V2": "hielp",
+    "V3": "hielpen",
+    "V4": "heeft geholpen",
+    "V5": "to help",
+    "V6": 1,
+    "V7": "h"
+  },
+  {
+    "V1": "heten",
+    "V2": "heette",
+    "V3": "heetten",
+    "V4": "heeft geheten",
+    "V5": "to be called",
+    "V6": 1,
+    "V7": "h"
+  },
+  {
+    "V1": "houden",
+    "V2": "hield",
+    "V3": "hielden",
+    "V4": "heeft gehouden",
+    "V5": "to keep",
+    "V6": 1,
+    "V7": "h"
+  },
+  {
+    "V1": "kiezen",
+    "V2": "koos",
+    "V3": "kozen",
+    "V4": "heeft gekozen",
+    "V5": "to choose",
+    "V6": 1,
+    "V7": "k"
+  },
+  {
+    "V1": "kijken",
+    "V2": "keek",
+    "V3": "keken",
+    "V4": "heeft gekeken",
+    "V5": "to look, to watch",
+    "V6": 1,
+    "V7": "k"
+  },
+  {
+    "V1": "klimmen",
+    "V2": "klom",
+    "V3": "klommen",
+    "V4": "heeft geklommen",
+    "V5": "to climb",
+    "V6": 1,
+    "V7": "k"
+  },
+  {
+    "V1": "klinken",
+    "V2": "klonk",
+    "V3": "klonken",
+    "V4": "heeft geklonken",
+    "V5": "to sound",
+    "V6": 1,
+    "V7": "k"
+  },
+  {
+    "V1": "komen",
+    "V2": "kwam",
+    "V3": "kwamen",
+    "V4": "is gekomen",
+    "V5": "to come",
+    "V6": 1,
+    "V7": "k"
+  },
+  {
+    "V1": "kopen",
+    "V2": "kocht",
+    "V3": "kochten",
+    "V4": "heeft gekocht",
+    "V5": "to buy",
+    "V6": 1,
+    "V7": "k"
+  },
+  {
+    "V1": "krijgen",
+    "V2": "kreeg",
+    "V3": "kregen",
+    "V4": "heeft gekregen",
+    "V5": "to get, to receive",
+    "V6": 1,
+    "V7": "k"
+  },
+  {
+    "V1": "kunnen",
+    "V2": "kon",
+    "V3": "konden",
+    "V4": "heeft gekund",
+    "V5": "can, to be able to",
+    "V6": 1,
+    "V7": "k"
+  },
+  {
+    "V1": "lachen",
+    "V2": "lachte",
+    "V3": "lachten",
+    "V4": "heeft gelachen",
+    "V5": "to laugh",
+    "V6": 1,
+    "V7": "l"
+  },
+  {
+    "V1": "laten",
+    "V2": "liet",
+    "V3": "lieten",
+    "V4": "heeft gelaten",
+    "V5": "to let",
+    "V6": 1,
+    "V7": "l"
+  },
+  {
+    "V1": "lezen",
+    "V2": "las",
+    "V3": "lazen",
+    "V4": "heeft gelezen",
+    "V5": "to read",
+    "V6": 1,
+    "V7": "l"
+  },
+  {
+    "V1": "liegen",
+    "V2": "loog",
+    "V3": "logen",
+    "V4": "heeft gelogen",
+    "V5": "to lie",
+    "V6": 1,
+    "V7": "l"
+  },
+  {
+    "V1": "liggen",
+    "V2": "lag",
+    "V3": "lagen",
+    "V4": "heeft gelegen",
+    "V5": "to lie",
+    "V6": 1,
+    "V7": "l"
+  },
+  {
+    "V1": "lijden",
+    "V2": "leed",
+    "V3": "leden",
+    "V4": "heeft geleden",
+    "V5": "to suffer",
+    "V6": 1,
+    "V7": "l"
+  },
+  {
+    "V1": "lijken",
+    "V2": "leek",
+    "V3": "leken",
+    "V4": "heeft geleken",
+    "V5": "look like, seem",
+    "V6": 1,
+    "V7": "l"
+  },
+  {
+    "V1": "lopen",
+    "V2": "liep",
+    "V3": "liepen",
+    "V4": "heeft gelopen",
+    "V5": "to walk",
+    "V6": 1,
+    "V7": "l"
+  },
+  {
+    "V1": "meten",
+    "V2": "mat",
+    "V3": "maten",
+    "V4": "heeft gemeten",
+    "V5": "to measure",
+    "V6": 1,
+    "V7": "m"
+  },
+  {
+    "V1": "moeten",
+    "V2": "moest",
+    "V3": "moesten",
+    "V4": "heeft gemoeten",
+    "V5": "must",
+    "V6": 1,
+    "V7": "m"
+  },
+  {
+    "V1": "mogen",
+    "V2": "mocht",
+    "V3": "mochten",
+    "V4": "heeft gemogen",
+    "V5": "to measure",
+    "V6": 1,
+    "V7": "m"
+  },
+  {
+    "V1": "nemen",
+    "V2": "nam",
+    "V3": "namen",
+    "V4": "heeft genomen",
+    "V5": "to take",
+    "V6": 1,
+    "V7": "n"
+  },
+  {
+    "V1": "ontwerpen",
+    "V2": "ontwierp",
+    "V3": "ontwierpen",
+    "V4": "heeft ontworpen",
+    "V5": "to design",
+    "V6": 1,
+    "V7": "o"
+  },
+  {
+    "V1": "opschieten",
+    "V2": "schoot op",
+    "V3": "schoten op",
+    "V4": "heeft/is opgeschoten",
+    "V5": "to hurry up",
+    "V6": 1,
+    "V7": "o"
+  },
+  {
+    "V1": "overlijden",
+    "V2": "overleed",
+    "V3": "overleden",
+    "V4": "is overleden",
+    "V5": "to die",
+    "V6": 1,
+    "V7": "o"
+  },
+  {
+    "V1": "raden",
+    "V2": "raadde",
+    "V3": "raadden",
+    "V4": "heeft geraden",
+    "V5": "to guess",
+    "V6": 1,
+    "V7": "r"
+  },
+  {
+    "V1": "rijden",
+    "V2": "reed",
+    "V3": "reden",
+    "V4": "heeft/is gereden",
+    "V5": "to drive, to ride",
+    "V6": 1,
+    "V7": "r"
+  },
+  {
+    "V1": "roepen",
+    "V2": "riep",
+    "V3": "riepen",
+    "V4": "heeft geroepen",
+    "V5": "to call",
+    "V6": 1,
+    "V7": "r"
+  },
+  {
+    "V1": "ruiken",
+    "V2": "rook",
+    "V3": "roken",
+    "V4": "heeft geroken",
+    "V5": "to smell",
+    "V6": 1,
+    "V7": "r"
+  },
+  {
+    "V1": "scheiden",
+    "V2": "scheidde",
+    "V3": "scheidden",
+    "V4": "heeft/is gescheiden",
+    "V5": "to divorce",
+    "V6": 1,
+    "V7": "s"
+  },
+  {
+    "V1": "schenken",
+    "V2": "schonk",
+    "V3": "schonken",
+    "V4": "heeft geschonken",
+    "V5": "to give",
+    "V6": 1,
+    "V7": "s"
+  },
+  {
+    "V1": "scheren",
+    "V2": "scheerde",
+    "V3": "scheerden",
+    "V4": "heeft geschoren",
+    "V5": "to shave",
+    "V6": 1,
+    "V7": "s"
+  },
+  {
+    "V1": "schrijven",
+    "V2": "schreef",
+    "V3": "schreven",
+    "V4": "heeft geschreven",
+    "V5": "to write",
+    "V6": 1,
+    "V7": "s"
+  },
+  {
+    "V1": "schrikken",
+    "V2": "schrok",
+    "V3": "schrokken",
+    "V4": "heeft/is geschrokken",
+    "V5": "to scare",
+    "V6": 1,
+    "V7": "s"
+  },
+  {
+    "V1": "schuiven",
+    "V2": "schoof",
+    "V3": "schoven",
+    "V4": "heeft/is geschoven",
+    "V5": "to slide",
+    "V6": 1,
+    "V7": "s"
+  },
+  {
+    "V1": "slaan",
+    "V2": "sloeg",
+    "V3": "sloegen",
+    "V4": "heeft geslagen",
+    "V5": "to beat",
+    "V6": 1,
+    "V7": "s"
+  },
+  {
+    "V1": "slapen",
+    "V2": "sliep",
+    "V3": "sliepen",
+    "V4": "heeft geslapen",
+    "V5": "to sleep",
+    "V6": 1,
+    "V7": "s"
+  },
+  {
+    "V1": "sluiten",
+    "V2": "sloot",
+    "V3": "sloten",
+    "V4": "heeft gesloten",
+    "V5": "to close",
+    "V6": 1,
+    "V7": "s"
+  },
+  {
+    "V1": "smelten",
+    "V2": "smolt",
+    "V3": "smolten",
+    "V4": "heeft gesmolten",
+    "V5": "to melt",
+    "V6": 1,
+    "V7": "s"
+  },
+  {
+    "V1": "smijten",
+    "V2": "smeet",
+    "V3": "smeten",
+    "V4": "heeft gesmeten",
+    "V5": "to throw it",
+    "V6": 1,
+    "V7": "s"
+  },
+  {
+    "V1": "snijden",
+    "V2": "sneed",
+    "V3": "sneden",
+    "V4": "heeft gesneden",
+    "V5": "to cut",
+    "V6": 1,
+    "V7": "s"
+  },
+  {
+    "V1": "snuiten",
+    "V2": "snoot",
+    "V3": "snoten",
+    "V4": "heeft gesnoten",
+    "V5": "to blow",
+    "V6": 1,
+    "V7": "s"
+  },
+  {
+    "V1": "spreken",
+    "V2": "sprak",
+    "V3": "spraken",
+    "V4": "heeft gesproken",
+    "V5": "to speak",
+    "V6": 1,
+    "V7": "s"
+  },
+  {
+    "V1": "springen",
+    "V2": "sprong",
+    "V3": "sprongen",
+    "V4": "heeft/is gesprongen",
+    "V5": "to jump",
+    "V6": 1,
+    "V7": "s"
+  },
+  {
+    "V1": "staan",
+    "V2": "stond",
+    "V3": "stonden",
+    "V4": "heeft gestaan",
+    "V5": "to stand",
+    "V6": 1,
+    "V7": "s"
+  },
+  {
+    "V1": "steken",
+    "V2": "stak",
+    "V3": "staken",
+    "V4": "heeft gestoken",
+    "V5": "to poke, to stab",
+    "V6": 1,
+    "V7": "s"
+  },
+  {
+    "V1": "stelen",
+    "V2": "stal",
+    "V3": "stalen",
+    "V4": "heeft gestolen",
+    "V5": "to steal",
+    "V6": 1,
+    "V7": "s"
+  },
+  {
+    "V1": "sterven",
+    "V2": "stierf",
+    "V3": "stierven",
+    "V4": "is gestorven",
+    "V5": "to die",
+    "V6": 1,
+    "V7": "s"
+  },
+  {
+    "V1": "stijgen",
+    "V2": "steeg",
+    "V3": "stegen",
+    "V4": "is gestegen",
+    "V5": "to rise, to go up",
+    "V6": 1,
+    "V7": "s"
+  },
+  {
+    "V1": "stinken",
+    "V2": "stonk",
+    "V3": "stonken",
+    "V4": "heeft gestonken",
+    "V5": "to stink",
+    "V6": 1,
+    "V7": "s"
+  },
+  {
+    "V1": "strijken",
+    "V2": "streek",
+    "V3": "streken",
+    "V4": "heeft gestreken",
+    "V5": "to iron",
+    "V6": 1,
+    "V7": "s"
+  },
+  {
+    "V1": "treden",
+    "V2": "trad",
+    "V3": "traden",
+    "V4": "heeft/is getreden",
+    "V5": "to iron",
+    "V6": 1,
+    "V7": "t"
+  },
+  {
+    "V1": "trekken",
+    "V2": "trok",
+    "V3": "trokken",
+    "V4": "heeft/is getrokken",
+    "V5": "to pull",
+    "V6": 1,
+    "V7": "t"
+  },
+  {
+    "V1": "vallen",
+    "V2": "viel",
+    "V3": "vielen",
+    "V4": "is gevallen",
+    "V5": "to fall",
+    "V6": 1,
+    "V7": "v"
+  },
+  {
+    "V1": "vangen",
+    "V2": "ving",
+    "V3": "vingen",
+    "V4": "heeft gevangen",
+    "V5": "to catch",
+    "V6": 1,
+    "V7": "v"
+  },
+  {
+    "V1": "varen",
+    "V2": "voer",
+    "V3": "voeren",
+    "V4": "heeft/is gevaren",
+    "V5": "to sail",
+    "V6": 1,
+    "V7": "v"
+  },
+  {
+    "V1": "vechten",
+    "V2": "vocht",
+    "V3": "vochten",
+    "V4": "heeft gevochten",
+    "V5": "to fight",
+    "V6": 1,
+    "V7": "v"
+  },
+  {
+    "V1": "verbieden",
+    "V2": "verbood",
+    "V3": "verboden",
+    "V4": "heeft verboden",
+    "V5": "to prohibit",
+    "V6": 1,
+    "V7": "v"
+  },
+  {
+    "V1": "verdwijnen",
+    "V2": "verdween",
+    "V3": "verdwenen",
+    "V4": "is verdwenen",
+    "V5": "to disappear",
+    "V6": 1,
+    "V7": "v"
+  },
+  {
+    "V1": "vergelijken",
+    "V2": "vergeleek",
+    "V3": "vergeleken",
+    "V4": "heeft vergeleken",
+    "V5": "look compare",
+    "V6": 1,
+    "V7": "v"
+  },
+  {
+    "V1": "vergeten",
+    "V2": "vergat",
+    "V3": "vergaten",
+    "V4": "heeft/is vergeten",
+    "V5": "to forget",
+    "V6": 1,
+    "V7": "v"
+  },
+  {
+    "V1": "verliezen",
+    "V2": "verloor",
+    "V3": "verloren",
+    "V4": "heeft/is verloren",
+    "V5": "to lose",
+    "V6": 1,
+    "V7": "v"
+  },
+  {
+    "V1": "vertrekken",
+    "V2": "vertrok",
+    "V3": "vertrokken",
+    "V4": "is vertrokken",
+    "V5": "to leave",
+    "V6": 1,
+    "V7": "v"
+  },
+  {
+    "V1": "verzinnen",
+    "V2": "verzon",
+    "V3": "verzonnen",
+    "V4": "heeft verzonnen",
+    "V5": "to invent",
+    "V6": 1,
+    "V7": "v"
+  },
+  {
+    "V1": "verzoeken",
+    "V2": "verzocht",
+    "V3": "verzochten",
+    "V4": "heeft verzocht",
+    "V5": "to request",
+    "V6": 1,
+    "V7": "v"
+  },
+  {
+    "V1": "vinden",
+    "V2": "vond",
+    "V3": "vonden",
+    "V4": "heeft gevonden",
+    "V5": "to find",
+    "V6": 1,
+    "V7": "v"
+  },
+  {
+    "V1": "vliegen",
+    "V2": "vloog",
+    "V3": "vlogen",
+    "V4": "heeft/is gevlogen",
+    "V5": "to fly",
+    "V6": 1,
+    "V7": "v"
+  },
+  {
+    "V1": "vragen",
+    "V2": "vroeg",
+    "V3": "vroegen",
+    "V4": "heeft gevraagd",
+    "V5": "to ask",
+    "V6": 1,
+    "V7": "v"
+  },
+  {
+    "V1": "waaien",
+    "V2": "waaide/woei",
+    "V3": "waaiden/woeien",
+    "V4": "heeft gewaaid",
+    "V5": "to blow",
+    "V6": 1,
+    "V7": "w"
+  },
+  {
+    "V1": "wassen",
+    "V2": "waste",
+    "V3": "wasten",
+    "V4": "heeft gewassen",
+    "V5": "to wash",
+    "V6": 1,
+    "V7": "w"
+  },
+  {
+    "V1": "wegen",
+    "V2": "woog",
+    "V3": "wogen",
+    "V4": "heeft gewogen",
+    "V5": "to weigh",
+    "V6": 1,
+    "V7": "w"
+  },
+  {
+    "V1": "weten",
+    "V2": "wist",
+    "V3": "wisten",
+    "V4": "heeft geweten",
+    "V5": "to know",
+    "V6": 1,
+    "V7": "w"
+  },
+  {
+    "V1": "wijzen",
+    "V2": "wees",
+    "V3": "wezen",
+    "V4": "heeft gewezen",
+    "V5": "to point, to show",
+    "V6": 1,
+    "V7": "w"
+  },
+  {
+    "V1": "willen",
+    "V2": "wilde / wou",
+    "V3": "wilden / wouden",
+    "V4": "heeft gewild",
+    "V5": "to want, to wish",
+    "V6": 1,
+    "V7": "w"
+  },
+  {
+    "V1": "winnen",
+    "V2": "won",
+    "V3": "wonnen",
+    "V4": "heeft gewonnen",
+    "V5": "to win",
+    "V6": 1,
+    "V7": "w"
+  },
+  {
+    "V1": "worden",
+    "V2": "werd",
+    "V3": "werden",
+    "V4": "is geworden",
+    "V5": "to become",
+    "V6": 1,
+    "V7": "w"
+  },
+  {
+    "V1": "zeggen",
+    "V2": "zei",
+    "V3": "zeiden",
+    "V4": "heeft gezegd",
+    "V5": "to say",
+    "V6": 1,
+    "V7": "z"
+  },
+  {
+    "V1": "zenden",
+    "V2": "zond",
+    "V3": "zonden",
+    "V4": "heeft gezonden",
+    "V5": "to sent",
+    "V6": 1,
+    "V7": "z"
+  },
+  {
+    "V1": "zien",
+    "V2": "zag",
+    "V3": "zagen",
+    "V4": "heeft gezien",
+    "V5": "to see",
+    "V6": 1,
+    "V7": "z"
+  },
+  {
+    "V1": "zijn",
+    "V2": "was",
+    "V3": "waren",
+    "V4": "is geweest",
+    "V5": "to be",
+    "V6": 1,
+    "V7": "z"
+  },
+  {
+    "V1": "zingen",
+    "V2": "zong",
+    "V3": "zongen",
+    "V4": "heeft gezongen",
+    "V5": "to sing",
+    "V6": 1,
+    "V7": "z"
+  },
+  {
+    "V1": "zitten",
+    "V2": "zat",
+    "V3": "zaten",
+    "V4": "heeft gezeten",
+    "V5": "to sit",
+    "V6": 1,
+    "V7": "z"
+  },
+  {
+    "V1": "zoeken",
+    "V2": "zocht",
+    "V3": "zochten",
+    "V4": "heeft gezocht",
+    "V5": "to look for, to search",
+    "V6": 1,
+    "V7": "z"
+  },
+  {
+    "V1": "zullen",
+    "V2": "zou",
+    "V3": "zouden",
+    "V4": "-",
+    "V5": "will, shall",
+    "V6": 1,
+    "V7": "z"
+  },
+  {
+    "V1": "zwemmen",
+    "V2": "zwom",
+    "V3": "zwommen",
+    "V4": "heeft gezwommen",
+    "V5": "to swim",
+    "V6": 1,
+    "V7": "z"
+  },
+  {
+    "V1": "zwijgen",
+    "V2": "zweeg",
+    "V3": "zwegen",
+    "V4": "heeft gezwegen",
+    "V5": "to be silent",
+    "V6": 1,
+    "V7": "z"
+  }
+]

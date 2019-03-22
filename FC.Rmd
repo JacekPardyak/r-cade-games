@@ -1,6 +1,6 @@
 ---
-title: "Flashcards in R"
-subtitle: "An implementation of Dutch - English virtual flashcards in Shiny"
+title: "Virtual Dutch Flashcards in R."
+subtitle: "A Shiny application supporting words and verbs declination memorization."
 author: "Jacek Pardyak"
 date: "`r Sys.Date()`"
 output:
@@ -21,37 +21,107 @@ When I started learning Dutch I couldn't find **R project** which will support m
 
 # The data
 
-Vocabulary covers material from `r newthought('De opmaat, Naar NT2-niveau A2')`^[[De opmaat, Naar NT2-niveau A2](https://www.nt2.nl/en/100-37_De-opmaat)] and is stored in JSON file. I'm also continuously enlarging the dataset.
+There are two data sets:
 
-```{r De opmat, fig.margin = TRUE, fig.cap = "The book cover page. Source: https://www.nt2.nl/ ", fig.width=3.5, fig.height=7, cache=TRUE, message=FALSE, echo=FALSE}
+1. List of Dutch words with English translation,
+
+Vocabulary loosely covers material from this `r newthought('Handbook')`^[[De opmaat, Naar NT2-niveau A2, Maud Beersmans, Wim Tersteeg](https://www.nt2.nl/en/100-37_De-opmaat)] and is stored in JSON files. There are also words I found interesting to me.
+
+```{r, echo = FALSE, fig.margin = TRUE}
+
 knitr::include_graphics("./pics/3d_-_9789085067238_-_omslag_-_de_opmaat_es.png")
 ```
 
-The reason why I have chosen *JSON* in favour of *CSV* is that I'm using *list* data type to store *Worden* (more then one translation) and *Thema* number (one word can appear with a different context more then once). The structure is:
+
+2. List of irregular Dutch verbs with conjugation forms.
+
+The list is a compilation of above mentioned book and `r newthought('Handbook')`^[[Niderlandzki, Gramatyka z ćwiczeniami, Katarzyna Wiercińska](https://www.nt2.nl/en/100-37_De-opmaat)]
+
+```{r, echo = FALSE, fig.margin = TRUE}
+
+knitr::include_graphics("./pics/niderlandzki-gramatyka-z-cwiczeniami.jpg")
+```
+
+I have chosen *JSON* file format in favour of *CSV* because one word can have more then one translation (or conjugation form) or can appear in several *Themas* in a different context and meaning. *List* data structure is very natural to store that kind of data. The first dataset is a *data frame* with *lists*, the second is *data frame* of nested *data frames*. 
+
+The structure of *woordenlijst.json* is as follows:
 
 ```{r, echo=FALSE, cache=TRUE}
 library(jsonlite)
-wordlist <- fromJSON(txt = "./App/wordlist.json")
+wordlist <- fromJSON(txt = "woordenlijst.json")
 objects <- wordlist[1:3,]
 text <- toJSON(objects, pretty = T)
 print(text)
-# f
 ```
 
-An disadvantage of this approach is data frames are not sortable.
+And the structure of *woordenlijst.json* is as follows:
 
-At this moment I'm using Polish translations only for supportive reason.
+```{r, echo=FALSE, cache=TRUE}
+library(jsonlite)
+wordlist <- fromJSON(txt = "werkwoorden.json")
+objects <- wordlist[1,]
+text <- toJSON(objects, pretty = T)
+print(text)
+```
 
+
+JSON keys:
+
+
+
+# The script
+
+Script of my Shiny application is stored in two files available from this `r newthought('Repository')`^[[https://github.com/JacekPardyak/FC](https://github.com/JacekPardyak/FC)]:
+
+1. *ui.R*
+
+2. *server.R*
+
+This is the header of *ui.R* file:
+
+```{r, echo=FALSE, cache=TRUE}
+text <- readLines(con = "./ui.R", n = 10)
+print(text)
+```
+
+And the header of *server.R* file:
+
+```{r, echo=FALSE, cache=TRUE}
+text <- readLines(con = "./server.R", n = 10)
+print(text)
+```
+
+
+
+Shortly about the *R* libraries:
+
+- `r newthought('shiny')`^[[https://shiny.rstudio.com/](https://shiny.rstudio.com/)] is a general framework for building web applications,
+
+- `r newthought('shinydashboard')`^[[https://rstudio.github.io/shinydashboard/](https://rstudio.github.io/shinydashboard/)] turns Shiny applications into cool dashboards,
+
+- `r newthought('jsonlite')`^[[https://cran.r-project.org/web/packages/jsonlite/](https://cran.r-project.org/web/packages/jsonlite/)] is used to process *JSON* files,
+
+- `r newthought('dt')`^[[https://rstudio.github.io/DT/](https://rstudio.github.io/DT/)] is used to edit table directly in the dashboard.
 
 # The application
 
-The Shiny Application sources are available from my `r newthought('Github repository')`^[<a href="https://github.com/JacekPardyak/FC/" target="_blank">https://github.com/JacekPardyak/FC</a>]. The usage is straightforward. 
+As of `r Sys.Date()` my application supports:
+
+1. Memorization of the Dutch words,
+
+2. Learning forms of irregular Dutch verbs.
+
+The usage is straightforward.
 
 
 # Further work
 
-Further I can improve the momorization process with `r newthought('Leitner System')`^[[https://en.wikipedia.org/wiki/Leitner_system](https://en.wikipedia.org/wiki/Leitner_system)].
+Further I can:
 
-Probably add more languages.
+- apply `r newthought('Leitner System')`^[[https://en.wikipedia.org/wiki/Leitner_system](https://en.wikipedia.org/wiki/Leitner_system)],
 
-And of course B1 course vocabulary. 
+- add more languages, 
+
+- extend list of words and expressions I want to learn,
+
+- add material I want to acquire in B1 course. 
