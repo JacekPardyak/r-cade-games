@@ -1,5 +1,5 @@
 ---
-title: "Virtual Dutch Flashcards in R."
+title: "The Virtual Dutch Flashcards in R."
 subtitle: "A Shiny application supporting words and verbs declination memorization."
 author: "Jacek Pardyak"
 date: "`r Sys.Date()`"
@@ -17,7 +17,11 @@ options(htmltools.dir.version = FALSE)
 
 # Introduction
 
-When I started learning Dutch I couldn't find **R project** which will support my vocabulary memorization. So I started myself virtual `r newthought('flashcards')`^[[https://en.wikipedia.org/wiki/Flashcard](https://en.wikipedia.org/wiki/Flashcard)] project in Shiny. What is absurd, my goal is I don't need them any more in a nearly future. Maybe someone else **vindt het leuk**.
+When I started learning Dutch, I couldn't find an R-project to support my vocabulary memorization. So I started it myself. 
+
+What's absurd, my goal is that I won't need them in the near future.
+
+Maybe someone else **vindt het leuk** or is willing participate in development.
 
 # The data
 
@@ -25,30 +29,32 @@ There are two data sets:
 
 1. List of Dutch words with English translation,
 
-Vocabulary loosely covers material from this `r newthought('Handbook')`^[[De opmaat, Naar NT2-niveau A2, Maud Beersmans, Wim Tersteeg](https://www.nt2.nl/en/100-37_De-opmaat)] and is stored in JSON files. There are also words I found interesting to me.
+Vocabulary loosely covers material from this `r newthought('Handbook')`^[[De opmaat, Naar NT2-niveau A2, Maud Beersmans, Wim Tersteeg](https://www.nt2.nl/en/100-37_De-opmaat)] and is stored in *JSON* files. The list is continuously expanded with words and expressions that I find interesting.
 
-```{r, echo = FALSE, fig.margin = TRUE}
+```{r, echo = FALSE, fig.margin = TRUE, fig.cap= "Source: www.nt2.nl"}
 
-knitr::include_graphics("./pics/3d_-_9789085067238_-_omslag_-_de_opmaat_es.png")
+knitr::include_graphics("./pics/boek1.png")
 ```
 
 
-2. List of irregular Dutch verbs with conjugation forms.
+2. List of irregular Dutch verbs with conjugated forms.
 
-The list is a compilation of above mentioned book and `r newthought('Handbook')`^[[Niderlandzki, Gramatyka z ćwiczeniami, Katarzyna Wiercińska](https://www.nt2.nl/en/100-37_De-opmaat)]
+The list is a compilation of above mentioned handbook and this `r newthought('book')`^[[Niderlandzki, Gramatyka z ćwiczeniami, Katarzyna Wiercińska](https://www.jezykiobce.pl/niderlandzki/1429-niderlandzki-gramatyka-z-cwiczeniami-9788377887462.html)]
 
-```{r, echo = FALSE, fig.margin = TRUE}
+```{r, echo = FALSE, fig.margin = TRUE, fig.cap= "Source: www.jezykiobce.pl"}
 
-knitr::include_graphics("./pics/niderlandzki-gramatyka-z-cwiczeniami.jpg")
+knitr::include_graphics("./pics/boek2.png")
 ```
 
-I have chosen *JSON* file format in favour of *CSV* because one word can have more then one translation (or conjugation form) or can appear in several *Themas* in a different context and meaning. *List* data structure is very natural to store that kind of data. The first dataset is a *data frame* with *lists*, the second is *data frame* of nested *data frames*. 
+I have chosen *JSON* file format in favour of *CSV* because one word can have more then one translation (or conjugated form) or can appear in several *Themas* with a different meaning. *List* data structure is very natural to store that kind of data. 
+
+The first dataset is a *data frame* with *lists*, the second is *data frame* of nested *data frames*. 
 
 The structure of *woordenlijst.json* is as follows:
 
 ```{r, echo=FALSE}
 library(jsonlite)
-wordlist <- fromJSON(txt = "woordenlijst.json")
+wordlist <- fromJSON(txt = "./data/woordenlijst.json")
 objects <- wordlist[1:3,]
 text <- toJSON(objects, pretty = T)
 print(text)
@@ -58,15 +64,11 @@ And the structure of *woordenlijst.json* is as follows:
 
 ```{r, echo=FALSE}
 library(jsonlite)
-wordlist <- fromJSON(txt = "werkwoorden.json")
+wordlist <- fromJSON(txt = "./data/werkwoorden.json")
 objects <- wordlist[1,]
 text <- toJSON(objects, pretty = T)
 print(text)
 ```
-
-
-JSON keys:
-
 
 
 # The script
@@ -109,7 +111,19 @@ As of `r Sys.Date()` my application supports:
 
 1. Memorization of the Dutch words,
 
+```{r, echo = FALSE}
+
+knitr::include_graphics("./pics/Capture1.PNG")
+```
+
+
 2. Learning forms of irregular Dutch verbs.
+
+```{r, echo = FALSE}
+
+knitr::include_graphics("./pics/Capture2.PNG")
+```
+
 
 The usage is straightforward.
 
@@ -120,8 +134,13 @@ Further I can:
 
 - apply `r newthought('Leitner System')`^[[https://en.wikipedia.org/wiki/Leitner_system](https://en.wikipedia.org/wiki/Leitner_system)],
 
-- add more languages, 
+- add more languages (Polish or Russian), 
 
-- extend list of words and expressions I want to learn,
+- expand the list with words and expressions I want to learn,
 
-- add material I want to acquire in B1 course. 
+- add material I want to learn in the next level of my journey with Dutch language. 
+
+
+
+
+

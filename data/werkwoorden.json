@@ -42,6 +42,174 @@
     }
   },
   {
+    "INF": "barsten",
+    "OTT": {
+      "SIN": {
+        "PE1": ["barst"],
+        "PE2": ["barst"],
+        "PE3": "barst"
+      },
+      "PLU": {
+        "PE1": "barsten",
+        "PE2": "barsten",
+        "PE3": "barsten"
+      },
+      "EXA": ""
+    },
+    "OVT": {
+      "SIN": {
+        "PE1": ["barstte"],
+        "PE2": ["barstte"],
+        "PE3": ["barstte"]
+      },
+      "PLU": {
+        "PE1": ["barstten"],
+        "PE2": ["barstten"],
+        "PE3": ["barstten"]
+      },
+      "EXA": ""
+    },
+    "VTT": {
+      "SIN": {
+        "PE1": ["ben gebarsten"],
+        "PE2": ["bent gebarsten"],
+        "PE3": ["is gebarsten"]
+      },
+      "PLU": {
+        "PE1": ["zijn gebarsten"],
+        "PE2": ["zijn gebarsten"],
+        "PE3": ["zijn gebarsten"]
+      },
+      "EXA": [""]
+    }
+  },
+  {
+    "INF": "barsten",
+    "OTT": {
+      "SIN": {
+        "PE1": ["barst"],
+        "PE2": ["barst"],
+        "PE3": "barst"
+      },
+      "PLU": {
+        "PE1": "barsten",
+        "PE2": "barsten",
+        "PE3": "barsten"
+      },
+      "EXA": ""
+    },
+    "OVT": {
+      "SIN": {
+        "PE1": ["barstte"],
+        "PE2": ["barstte"],
+        "PE3": ["barstte"]
+      },
+      "PLU": {
+        "PE1": ["barstten"],
+        "PE2": ["barstten"],
+        "PE3": ["barstten"]
+      },
+      "EXA": ""
+    },
+    "VTT": {
+      "SIN": {
+        "PE1": ["ben gebarsten"],
+        "PE2": ["bent gebarsten"],
+        "PE3": ["is gebarsten"]
+      },
+      "PLU": {
+        "PE1": ["zijn gebarsten"],
+        "PE2": ["zijn gebarsten"],
+        "PE3": ["zijn gebarsten"]
+      },
+      "EXA": [""]
+    }
+  },
+  {
+    "INF": "bederven",
+    "OTT": {
+      "SIN": {
+        "PE1": ["bederf"],
+        "PE2": ["bederft"],
+        "PE3": "bederft"
+      },
+      "PLU": {
+        "PE1": "bederven",
+        "PE2": "bederven",
+        "PE3": "bederven"
+      },
+      "EXA": ""
+    },
+    "OVT": {
+      "SIN": {
+        "PE1": ["bedierf"],
+        "PE2": ["bedierf"],
+        "PE3": ["bedierf"]
+      },
+      "PLU": {
+        "PE1": ["bedierven"],
+        "PE2": ["bedierven"],
+        "PE3": ["bedierven"]
+      },
+      "EXA": ""
+    },
+    "VTT": {
+      "SIN": {
+        "PE1": ["heb bedorven", "ben bedorven"],
+        "PE2": ["hebt bedorven", "bent bedorven"],
+        "PE3": ["heeft bedorven", "is bedorven"]
+      },
+      "PLU": {
+        "PE1": ["hebben bedorven", "zijn bedorven"],
+        "PE2": ["hebben bedorven", "zijn bedorven"],
+        "PE3": ["hebben bedorven", "zijn bedorven"]
+      },
+      "EXA": [""]
+    }
+  },
+  {
+    "INF": "bedriegen",
+    "OTT": {
+      "SIN": {
+        "PE1": ["bedrieg"],
+        "PE2": ["bedriegt"],
+        "PE3": "bedriegt"
+      },
+      "PLU": {
+        "PE1": "bedriegen",
+        "PE2": "bedriegen",
+        "PE3": "bedriegen"
+      },
+      "EXA": ""
+    },
+    "OVT": {
+      "SIN": {
+        "PE1": ["bedroog"],
+        "PE2": ["bedroog"],
+        "PE3": ["bedroog"]
+      },
+      "PLU": {
+        "PE1": ["bedrogen"],
+        "PE2": ["bedrogen"],
+        "PE3": ["bedrogen"]
+      },
+      "EXA": ""
+    },
+    "VTT": {
+      "SIN": {
+        "PE1": ["heb bedrogen"],
+        "PE2": ["hebt bedrogen"],
+        "PE3": ["heeft bedrogen"]
+      },
+      "PLU": {
+        "PE1": ["hebben bedrogen"],
+        "PE2": ["hebben bedrogen"],
+        "PE3": ["hebben bedrogen"]
+      },
+      "EXA": [""]
+    }
+  },
+  {
     "INF": "beginnen",
     "OTT": {
       "SIN": {
@@ -121,6 +289,48 @@
         "PE1": ["hebben begrepen"],
         "PE2": ["hebben begrepen"],
         "PE3": ["hebben begrepen"]
+      },
+      "EXA": [""]
+    }
+  },
+  {
+    "INF": "bevelen",
+    "OTT": {
+      "SIN": {
+        "PE1": ["beveel"],
+        "PE2": ["beveelt"],
+        "PE3": "beveelt"
+      },
+      "PLU": {
+        "PE1": "bevelen",
+        "PE2": "bevelen",
+        "PE3": "bevelen"
+      },
+      "EXA": ""
+    },
+    "OVT": {
+      "SIN": {
+        "PE1": ["beval"],
+        "PE2": ["beval"],
+        "PE3": ["beval"]
+      },
+      "PLU": {
+        "PE1": ["bevalen"],
+        "PE2": ["bevalen"],
+        "PE3": ["bevalen"]
+      },
+      "EXA": ""
+    },
+    "VTT": {
+      "SIN": {
+        "PE1": ["heb bevolen"],
+        "PE2": ["hebt bevolen"],
+        "PE3": ["heeft bevolen"]
+      },
+      "PLU": {
+        "PE1": ["hebben bevolen"],
+        "PE2": ["hebben bevolen"],
+        "PE3": ["hebben bevolen"]
       },
       "EXA": [""]
     }
@@ -336,6 +546,90 @@
     }
   },
   {
+    "INF": "binden",
+    "OTT": {
+      "SIN": {
+        "PE1": ["bind"],
+        "PE2": ["bindt"],
+        "PE3": "bindt"
+      },
+      "PLU": {
+        "PE1": "binden",
+        "PE2": "binden",
+        "PE3": "binden"
+      },
+      "EXA": ""
+    },
+    "OVT": {
+      "SIN": {
+        "PE1": ["bond"],
+        "PE2": ["bond"],
+        "PE3": ["bond"]
+      },
+      "PLU": {
+        "PE1": ["bonden"],
+        "PE2": ["bonden"],
+        "PE3": ["bonden"]
+      },
+      "EXA": ""
+    },
+    "VTT": {
+      "SIN": {
+        "PE1": ["heb gebonden"],
+        "PE2": ["hebt gebonden"],
+        "PE3": ["heeft gebonden"]
+      },
+      "PLU": {
+        "PE1": ["hebben gebonden"],
+        "PE2": ["hebben gebonden"],
+        "PE3": ["hebben gebonden"]
+      },
+      "EXA": [""]
+    }
+  },
+  {
+    "INF": "blazen",
+    "OTT": {
+      "SIN": {
+        "PE1": ["blaas"],
+        "PE2": ["blaast"],
+        "PE3": "blaast"
+      },
+      "PLU": {
+        "PE1": "blazen",
+        "PE2": "blazen",
+        "PE3": "blazen"
+      },
+      "EXA": ""
+    },
+    "OVT": {
+      "SIN": {
+        "PE1": ["blies"],
+        "PE2": ["blies"],
+        "PE3": ["blies"]
+      },
+      "PLU": {
+        "PE1": ["bliezen"],
+        "PE2": ["bliezen"],
+        "PE3": ["bliezen"]
+      },
+      "EXA": ""
+    },
+    "VTT": {
+      "SIN": {
+        "PE1": ["heb geblazen"],
+        "PE2": ["hebt geblazen"],
+        "PE3": ["heeft geblazen"]
+      },
+      "PLU": {
+        "PE1": ["hebben geblazen"],
+        "PE2": ["hebben geblazen"],
+        "PE3": ["hebben geblazen"]
+      },
+      "EXA": [""]
+    }
+  },
+  {
     "INF": "blijken",
     "OTT": {
       "SIN": {
@@ -417,6 +711,48 @@
         "PE3": ["zijn gebleven"]
       },
       "EXA": ["Waar zijn ze gebleven?"]
+    }
+  },
+  {
+    "INF": "blinken",
+    "OTT": {
+      "SIN": {
+        "PE1": ["blink"],
+        "PE2": ["blinkt"],
+        "PE3": "blinkt"
+      },
+      "PLU": {
+        "PE1": "blinken",
+        "PE2": "blinken",
+        "PE3": "blinken"
+      },
+      "EXA": ""
+    },
+    "OVT": {
+      "SIN": {
+        "PE1": ["blonk"],
+        "PE2": ["blonk"],
+        "PE3": ["blonk"]
+      },
+      "PLU": {
+        "PE1": ["blonken"],
+        "PE2": ["blonken"],
+        "PE3": ["blonken"]
+      },
+      "EXA": ""
+    },
+    "VTT": {
+      "SIN": {
+        "PE1": ["heb geblonken"],
+        "PE2": ["hebt geblonken"],
+        "PE3": ["heeft geblonken"]
+      },
+      "PLU": {
+        "PE1": ["hebben geblonken"],
+        "PE2": ["hebben geblonken"],
+        "PE3": ["hebben geblonken"]
+      },
+      "EXA": [""]
     }
   },
   {
@@ -543,6 +879,90 @@
         "PE3": ["hebben gebracht"]
       },
       "EXA": ["De ober heeft me een kop thee gebracht."]
+    }
+  },
+  {
+    "INF": "brouwen",
+    "OTT": {
+      "SIN": {
+        "PE1": ["brouw"],
+        "PE2": ["brouwt"],
+        "PE3": "brouwt"
+      },
+      "PLU": {
+        "PE1": "brouwen",
+        "PE2": "brouwen",
+        "PE3": "brouwen"
+      },
+      "EXA": ""
+    },
+    "OVT": {
+      "SIN": {
+        "PE1": ["brouwde"],
+        "PE2": ["brouwde"],
+        "PE3": ["brouwde"]
+      },
+      "PLU": {
+        "PE1": ["brouwden"],
+        "PE2": ["brouwden"],
+        "PE3": ["brouwden"]
+      },
+      "EXA": ""
+    },
+    "VTT": {
+      "SIN": {
+        "PE1": ["heb gebrouwd"],
+        "PE2": ["hebt gebrouwd"],
+        "PE3": ["heeft gebrouwd"]
+      },
+      "PLU": {
+        "PE1": ["hebben gebrouwd"],
+        "PE2": ["hebben gebrouwd"],
+        "PE3": ["hebben gebrouwd"]
+      },
+      "EXA": ["We zijn in mei getrouwd."]
+    }
+  },
+  {
+    "INF": "buigen",
+    "OTT": {
+      "SIN": {
+        "PE1": ["buig"],
+        "PE2": ["buigt"],
+        "PE3": "buigt"
+      },
+      "PLU": {
+        "PE1": "buigen",
+        "PE2": "buigen",
+        "PE3": "buigen"
+      },
+      "EXA": ""
+    },
+    "OVT": {
+      "SIN": {
+        "PE1": ["boog"],
+        "PE2": ["boog"],
+        "PE3": ["boog"]
+      },
+      "PLU": {
+        "PE1": ["bogen"],
+        "PE2": ["bogen"],
+        "PE3": ["bogen"]
+      },
+      "EXA": ""
+    },
+    "VTT": {
+      "SIN": {
+        "PE1": ["heb gebogen"],
+        "PE2": ["hebt gebogen"],
+        "PE3": ["heeft gebogen"]
+      },
+      "PLU": {
+        "PE1": ["hebben gebogen"],
+        "PE2": ["hebben gebogen"],
+        "PE3": ["hebben gebogen"]
+      },
+      "EXA": [""]
     }
   },
   {
@@ -756,6 +1176,48 @@
     }
   },
   {
+    "INF": "druipen",
+    "OTT": {
+      "SIN": {
+        "PE1": ["druip"],
+        "PE2": ["druipt"],
+        "PE3": "druipt"
+      },
+      "PLU": {
+        "PE1": "druipen",
+        "PE2": "druipen",
+        "PE3": "druipen"
+      },
+      "EXA": ""
+    },
+    "OVT": {
+      "SIN": {
+        "PE1": ["droop"],
+        "PE2": ["droop"],
+        "PE3": ["droop"]
+      },
+      "PLU": {
+        "PE1": ["dropen"],
+        "PE2": ["dropen"],
+        "PE3": ["dropen"]
+      },
+      "EXA": ""
+    },
+    "VTT": {
+      "SIN": {
+        "PE1": ["heb gedropen", "ben gedropen"],
+        "PE2": ["hebt gedropen", "bent gedropen"],
+        "PE3": ["heeft gedropen", "is gedropen"]
+      },
+      "PLU": {
+        "PE1": ["hebben gedropen", "zijn gedropen"],
+        "PE2": ["hebben gedropen", "zijn gedropen"],
+        "PE3": ["hebben gedropen", "zijn gedropen"]
+      },
+      "EXA": [""]
+    }
+  },
+  {
     "INF": "duiken",
     "OTT": {
       "SIN": {
@@ -795,6 +1257,48 @@
         "PE3": ["hebben gedoken", "zijn gedoken"]
       },
       "EXA": ["Hij heeft in de bed gedoken.", "Hij is in de boek gedoken."]
+    }
+  },
+  {
+    "INF": "dwingen",
+    "OTT": {
+      "SIN": {
+        "PE1": ["dwing"],
+        "PE2": ["dwingt"],
+        "PE3": "dwingt"
+      },
+      "PLU": {
+        "PE1": "dwingen",
+        "PE2": "dwingen",
+        "PE3": "dwingen"
+      },
+      "EXA": ""
+    },
+    "OVT": {
+      "SIN": {
+        "PE1": ["dwong"],
+        "PE2": ["dwong"],
+        "PE3": ["dwong"]
+      },
+      "PLU": {
+        "PE1": ["dwongen"],
+        "PE2": ["dwongen"],
+        "PE3": ["dwongen"]
+      },
+      "EXA": ""
+    },
+    "VTT": {
+      "SIN": {
+        "PE1": ["heb gedwongen"],
+        "PE2": ["hebt gedwongen"],
+        "PE3": ["heeft gedwongen"]
+      },
+      "PLU": {
+        "PE1": ["hebben gedwongen"],
+        "PE2": ["hebben gedwongen"],
+        "PE3": ["hebben gedwongen"]
+      },
+      "EXA": [""]
     }
   },
   {
@@ -1176,6 +1680,90 @@
     }
   },
   {
+    "INF": "gieten",
+    "OTT": {
+      "SIN": {
+        "PE1": ["giet"],
+        "PE2": ["giet"],
+        "PE3": "giet"
+      },
+      "PLU": {
+        "PE1": "gieten",
+        "PE2": "gieten",
+        "PE3": "gieten"
+      },
+      "EXA": ""
+    },
+    "OVT": {
+      "SIN": {
+        "PE1": ["goot"],
+        "PE2": ["goot"],
+        "PE3": ["goot"]
+      },
+      "PLU": {
+        "PE1": ["goten"],
+        "PE2": ["goten"],
+        "PE3": ["goten"]
+      },
+      "EXA": ""
+    },
+    "VTT": {
+      "SIN": {
+        "PE1": ["heb gegoten"],
+        "PE2": ["hebt gegoten"],
+        "PE3": ["heeft gegoten"]
+      },
+      "PLU": {
+        "PE1": ["hebben gegoten"],
+        "PE2": ["hebben gegoten"],
+        "PE3": ["hebben gegoten"]
+      },
+      "EXA": [""]
+    }
+  },
+  {
+    "INF": "glijden",
+    "OTT": {
+      "SIN": {
+        "PE1": ["glijd"],
+        "PE2": ["glijdt"],
+        "PE3": "glijdt"
+      },
+      "PLU": {
+        "PE1": "glijden",
+        "PE2": "glijden",
+        "PE3": "glijden"
+      },
+      "EXA": ""
+    },
+    "OVT": {
+      "SIN": {
+        "PE1": ["gleed"],
+        "PE2": ["gleed"],
+        "PE3": ["gleed"]
+      },
+      "PLU": {
+        "PE1": ["gleden"],
+        "PE2": ["gleden"],
+        "PE3": ["gleden"]
+      },
+      "EXA": ""
+    },
+    "VTT": {
+      "SIN": {
+        "PE1": ["heb gegleden", "ben gegleden"],
+        "PE2": ["hebt gegleden", "bent gegleden"],
+        "PE3": ["heeft gegleden", "is gegleden"]
+      },
+      "PLU": {
+        "PE1": ["hebben gegleden", "zijn gegleden"],
+        "PE2": ["hebben gegleden", "zijn gegleden"],
+        "PE3": ["hebben gegleden", "zijn gegleden"]
+      },
+      "EXA": [""]
+    }
+  },
+  {
     "INF": "graven",
     "OTT": {
       "SIN": {
@@ -1213,6 +1801,48 @@
         "PE1": ["hebben gegraven"],
         "PE2": ["hebben gegraven"],
         "PE3": ["hebben gegraven"]
+      },
+      "EXA": [""]
+    }
+  },
+  {
+    "INF": "grijpen",
+    "OTT": {
+      "SIN": {
+        "PE1": ["grijp"],
+        "PE2": ["grijpt"],
+        "PE3": "grijpt"
+      },
+      "PLU": {
+        "PE1": "grijpen",
+        "PE2": "grijpen",
+        "PE3": "grijpen"
+      },
+      "EXA": ""
+    },
+    "OVT": {
+      "SIN": {
+        "PE1": ["greep"],
+        "PE2": ["greep"],
+        "PE3": ["greep"]
+      },
+      "PLU": {
+        "PE1": ["grepen"],
+        "PE2": ["grepen"],
+        "PE3": ["grepen"]
+      },
+      "EXA": ""
+    },
+    "VTT": {
+      "SIN": {
+        "PE1": ["heb gegrepen"],
+        "PE2": ["hebt gegrepen"],
+        "PE3": ["heeft gegrepen"]
+      },
+      "PLU": {
+        "PE1": ["hebben gegrepen"],
+        "PE2": ["hebben gegrepen"],
+        "PE3": ["hebben gegrepen"]
       },
       "EXA": [""]
     }
@@ -1299,6 +1929,48 @@
         "PE3": ["hebben gehad"]
       },
       "EXA": ["I heb geen signalen gehad."]
+    }
+  },
+  {
+    "INF": "heffen",
+    "OTT": {
+      "SIN": {
+        "PE1": ["hef"],
+        "PE2": ["heft"],
+        "PE3": "heft"
+      },
+      "PLU": {
+        "PE1": "heffen",
+        "PE2": "heffen",
+        "PE3": "heffen"
+      },
+      "EXA": ""
+    },
+    "OVT": {
+      "SIN": {
+        "PE1": ["hief"],
+        "PE2": ["hief"],
+        "PE3": ["hief"]
+      },
+      "PLU": {
+        "PE1": ["hieven"],
+        "PE2": ["hieven"],
+        "PE3": ["hieven"]
+      },
+      "EXA": ""
+    },
+    "VTT": {
+      "SIN": {
+        "PE1": ["heb geheven"],
+        "PE2": ["hebt geheven"],
+        "PE3": ["heeft geheven"]
+      },
+      "PLU": {
+        "PE1": ["hebben geheven"],
+        "PE2": ["hebben geheven"],
+        "PE3": ["hebben geheven"]
+      },
+      "EXA": [""]
     }
   },
   {
@@ -5204,7 +5876,7 @@
         "PE2": ["hebben gevlogen", "zijn gevlogen"],
         "PE3": ["hebben gevlogen", "zijn gevlogen"]
       },
-      "EXA": ["Het vliegtuig heeft gevlogen."]
+      "EXA": ["Het vliegtuig heeft gevlogen.", "Het vliegtuig is naar Parijs gevlogen."]
     }
   },
   {
@@ -6044,49 +6716,7 @@
         "PE2": ["hebben gezocht"],
         "PE3": ["hebben gezocht"]
       },
-      "EXA": [""]
-    }
-  },
-  {
-    "INF": "zoeken",
-    "OTT": {
-      "SIN": {
-        "PE1": ["zoekt"],
-        "PE2": ["zoekt"],
-        "PE3": "zoekt"
-      },
-      "PLU": {
-        "PE1": "zoeken",
-        "PE2": "zoeken",
-        "PE3": "zoeken"
-      },
-      "EXA": ""
-    },
-    "OVT": {
-      "SIN": {
-        "PE1": ["zocht"],
-        "PE2": ["zocht"],
-        "PE3": ["zocht"]
-      },
-      "PLU": {
-        "PE1": ["zochten"],
-        "PE2": ["zochten"],
-        "PE3": ["zochten"]
-      },
-      "EXA": ""
-    },
-    "VTT": {
-      "SIN": {
-        "PE1": ["heb gezocht"],
-        "PE2": ["hebt gezocht"],
-        "PE3": ["heeft gezocht"]
-      },
-      "PLU": {
-        "PE1": ["hebben gezocht"],
-        "PE2": ["hebben gezocht"],
-        "PE3": ["hebben gezocht"]
-      },
-      "EXA": ["Ze hebben gezocht naar mogelijke en onmogelijke manieren om een aantal songs te moderniseren."]
+      "EXA": ["Ze hebben gezocht naar manieren om het bedrijf te moderniseren."]
     }
   },
   {

@@ -1,4 +1,5 @@
 # Flashcard in R
 
-You are cordially invited to read my RPub: http://rpubs.com/JacekPardyak/FC.
+A Shiny application supporting words and verbs declination memorization.
+For more information visit: http://rpubs.com/JacekPardyak/FC.
 
