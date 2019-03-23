@@ -1,5 +1,5 @@
-words <- fromJSON(txt = "woordenlijst.json")
-verbs <- fromJSON(txt = "werkwoorden.json")
+words <- fromJSON(txt = "./data/woordenlijst.json")
+verbs <- fromJSON(txt = "./data/werkwoorden.json")
 
 function(input, output, session) { 
   # INF - infinitief: werken, lezen
@@ -181,14 +181,18 @@ function(input, output, session) {
   
 
 # get inflected verb form ====
-output$verb <- renderText({ verbs[verbs$INF == input$infinitive ,
-        input$time][,input$number][,input$person][[1]]
+output$verb <- renderText({
+  temp <- verbs[verbs$INF == input$infinitive , input$time][,input$number][,input$person]
+  if(length(temp) > 0)
+           paste(temp[[1]], collapse = "; ")    
   })  
   
 # get example with inflected verb form ====
   output$example <- renderText({
-    verbs[verbs$INF == input$infinitive ,
-          input$time][,"EXA"][[1]]
+   temp <- verbs[verbs$INF == input$infinitive ,
+          input$time][,"EXA"]
+   if(length(temp) > 0)
+     paste(temp[[1]], collapse = "; ")  
   })
     
   
@@ -237,7 +241,7 @@ x <-     eventReactive(input$go4,
  row()[,input$time2][,input$number][,input$person]
                      })
 
-output$word3 <- renderText({x()})
+#output$word3 <- renderText({x()})
 # get table
 
 #  df <- eventReactive(input$go2, {
