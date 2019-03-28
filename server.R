@@ -141,7 +141,7 @@ function(input, output, session) {
 # save changes  
   observeEvent(input$save, {
     text <- toJSON(words, pretty = T)
-    writeLines(text, "woordenlijst.json", useBytes = T)
+    writeLines(text, "./data/woordenlijst.json", useBytes = T)
   })  
   
 ### werkwoorden tab ====  

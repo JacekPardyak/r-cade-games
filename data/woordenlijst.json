@@ -1,13 +1,22 @@
 [
   {
     "TH": [0],
+    "NL": ["eekhoorn"],
+    "EN": ["squirrel"],
+    "PL": ["wiewiórka"],
+    "ST": "FALSE",
+    "AD": "",
+    "EX": ""
+  },  {
+    "TH": [0],
     "NL": ["hoeven"],
     "EN": ["to need"],
     "PL": [""],
     "ST": "FALSE",
     "AD": "",
     "EX": "Godzijdank hoef ik geen Pools te leren."
-  },  {
+  },
+  {
     "TH": [0],
     "NL": ["upload"],
     "EN": ["to upload"],
@@ -18,13 +27,13 @@
   },
   {
     "TH": [0],
-    "NL": ["koe" ],
+    "NL": ["koe"],
     "EN": ["cow"],
     "PL": ["krowa"],
     "ST": "TRUE",
     "AD": "de; -ien",
     "EX": "Er zijn veel koeien in Nederland."
-  },  
+  },
   {
     "TH": [0],
     "NL": ["sjek", "shag"],
@@ -66,7 +75,7 @@
     "NL": ["glad"],
     "EN": ["slippery"],
     "PL": ["ślisko"],
-    "ST": "FALSE",
+    "ST": "TRUE",
     "EX": "Glad rooster."
   },
   {
@@ -118,7 +127,7 @@
     "NL": ["antwoord"],
     "EN": ["answer"],
     "PL": [],
-    "ST": "FALSE",
+    "ST": "TRUE",
     "AD": "het; -en",
     "EX": "De docent heeft snel de vragen geantwoord."
   },
@@ -1348,7 +1357,7 @@
     "EN": ["sometimes"],
     "PL": [],
     "ST": "TRUE",
-    "EX": ""
+    "EX": "soms - vaak"
   },
   {
     "TH": [1],
@@ -2650,14 +2659,14 @@
     "EN": ["difficult"],
     "PL": [],
     "ST": "FALSE",
-    "EX": ""
+    "EX": "moeilijk - makkelijk"
   },
   {
     "TH": [2],
     "NL": ["moeten"],
     "EN": ["must"],
     "PL": [],
-    "ST": "FALSE",
+    "ST": "TRUE",
     "EX": ""
   },
   {
@@ -2708,7 +2717,7 @@
     "NL": ["nicht"],
     "EN": ["female cousin", "niece"],
     "PL": [],
-    "ST": "FALSE",
+    "ST": "TRUE",
     "AD": "de; -en",
     "EX": ""
   },
@@ -2717,7 +2726,7 @@
     "NL": ["nichtje"],
     "EN": ["little niece"],
     "PL": [],
-    "ST": "FALSE",
+    "ST": "TRUE",
     "AD": "het; -s",
     "EX": ""
   },
@@ -2758,7 +2767,7 @@
     "NL": ["onderzoek"],
     "EN": ["research", "investigation"],
     "PL": [],
-    "ST": "FALSE",
+    "ST": "TRUE",
     "AD": "het; -en",
     "EX": ""
   },
@@ -3330,16 +3339,8 @@
     "NL": ["veel"],
     "EN": ["a lot of", "much", "many"],
     "PL": [],
-    "ST": "FALSE",
-    "EX": ""
-  },
-  {
-    "TH": [2],
-    "NL": ["veel plezier!"],
-    "EN": ["lots of fun!"],
-    "PL": [],
-    "ST": "FALSE",
-    "EX": ""
+    "ST": "TRUE",
+    "EX": "veel plezier!"
   },
   {
     "TH": [2],
@@ -3347,8 +3348,7 @@
     "EN": ["many"],
     "PL": [],
     "ST": "FALSE",
-    "AD": "voor velen",
-    "EX": ""
+    "EX": "De plek waar het voor velen van ons allemaal begon."
   },
   {
     "TH": [2],
@@ -3391,7 +3391,7 @@
     "EN": ["to find"],
     "PL": [],
     "ST": "TRUE",
-    "EX": ""
+    "EX": "Ik kan het heel goed vinden met mijn man."
   },
   {
     "TH": [2],
@@ -3399,7 +3399,7 @@
     "EN": ["next", "following"],
     "PL": [],
     "ST": "TRUE",
-    "EX": ""
+    "EX": "volgende - vorige"
   },
   {
     "TH": [2],
@@ -3551,7 +3551,7 @@
     "NL": ["zoeken"],
     "EN": ["to look for", "to search"],
     "PL": [],
-    "ST": "FALSE",
+    "ST": "TRUE",
     "EX": ""
   },
   {
@@ -5423,7 +5423,7 @@
     "NL": ["rood"],
     "EN": ["red"],
     "PL": [],
-    "ST": "FALSE",
+    "ST": "TRUE",
     "EX": ""
   },
   {
@@ -5555,7 +5555,7 @@
     "NL": ["sinaasappel"],
     "EN": ["orange (fruit)"],
     "PL": [],
-    "ST": "FALSE",
+    "ST": "TRUE",
     "AD": "de; -s",
     "EX": ""
   },
@@ -5920,7 +5920,7 @@
     "EN": ["few", "little"],
     "PL": [],
     "ST": "FALSE",
-    "EX": ""
+    "EX": "veel - weinig"
   },
   {
     "TH": [3],
@@ -5997,7 +5997,7 @@
     "NL": ["zeggen"],
     "EN": ["to say"],
     "PL": [],
-    "ST": "FALSE",
+    "ST": "TRUE",
     "EX": "Niemand heeft me dat gezegd"
   },
   {
@@ -6015,7 +6015,7 @@
     "EN": ["sweet"],
     "PL": [],
     "ST": "FALSE",
-    "EX": ""
+    "EX": "zoet - bitter"
   },
   {
     "TH": [3],
@@ -6163,8 +6163,8 @@
     "NL": ["bijna"],
     "EN": ["almost", "nearly"],
     "PL": [],
-    "ST": "FALSE",
-    "EX": ""
+    "ST": "TRUE",
+    "EX": "bijna altijd - bijna nooit"
   },
   {
     "TH": [4],
@@ -6395,7 +6395,7 @@
     "NL": ["geduld"],
     "EN": ["patience"],
     "PL": [],
-    "ST": "FALSE",
+    "ST": "TRUE",
     "AD": "het",
     "EX": ""
   },
@@ -6606,7 +6606,7 @@
     "NL": ["lopend"],
     "EN": ["walking"],
     "PL": [],
-    "ST": "FALSE",
+    "ST": "TRUE",
     "EX": ""
   },
   {
@@ -6705,7 +6705,7 @@
     "NL": ["omdat", "want"],
     "EN": ["because"],
     "PL": [],
-    "ST": "FALSE",
+    "ST": "TRUE",
     "EX": ""
   },
   {
@@ -6747,8 +6747,8 @@
     "NL": ["openbaar"],
     "EN": ["public"],
     "PL": [],
-    "ST": "FALSE",
-    "EX": ""
+    "ST": "TRUE",
+    "EX": "OV - Openbaar Vervoer"
   },
   {
     "TH": [4],
@@ -6782,7 +6782,7 @@
     "PL": [],
     "ST": "FALSE",
     "AD": "plaats; tijd",
-    "EX": ""
+    "EX": "over 3 weken - 3 weken geleden"
   },
   {
     "TH": [4],
@@ -7011,7 +7011,7 @@
     "NL": ["snelweg"],
     "EN": ["motorway"],
     "PL": [],
-    "ST": "FALSE",
+    "ST": "TRUE",
     "AD": "de; snelwegen",
     "EX": ""
   },
@@ -7140,7 +7140,7 @@
     "EN": ["often"],
     "PL": [],
     "ST": "FALSE",
-    "EX": ""
+    "EX": "vaak - zelden"
   },
   {
     "TH": [4],
@@ -7289,7 +7289,7 @@
     "EN": ["upcoming", "forthcoming"],
     "PL": [],
     "ST": "FALSE",
-    "EX": ""
+    "EX": "aanstaande - afgelopen"
   },
   {
     "TH": [5],
@@ -7330,7 +7330,7 @@
     "EN": ["last", "previous"],
     "PL": [],
     "ST": "FALSE",
-    "EX": ""
+    "EX": "afgelopen - aanstaande"
   },
   {
     "TH": [5],
@@ -7346,8 +7346,8 @@
     "NL": ["altijd"],
     "EN": ["always"],
     "PL": [],
-    "ST": "FALSE",
-    "EX": ""
+    "ST": "TRUE",
+    "EX": "altijd - nooit"
   },
   {
     "TH": [5],
@@ -7475,7 +7475,7 @@
     "EN": ["fat", "thick"],
     "PL": ["gruby"],
     "ST": "FALSE",
-    "EX": ""
+    "EX": "dik - dun"
   },
   {
     "TH": [5],
@@ -7490,7 +7490,7 @@
     "NL": ["druk"],
     "EN": ["busy", "occupied"],
     "PL": [],
-    "ST": "FALSE",
+    "ST": "TRUE",
     "EX": ""
   },
   {
@@ -7506,8 +7506,8 @@
     "NL": ["eerst"],
     "EN": ["first"],
     "PL": [],
-    "ST": "FALSE",
-    "EX": ""
+    "ST": "TRUE",
+    "EX": "eerst - laatst"
   },
   {
     "TH": [5],
@@ -7640,7 +7640,7 @@
     "NL": ["instrument"],
     "EN": ["instrument"],
     "PL": [],
-    "ST": "FALSE",
+    "ST": "TRUE",
     "AD": "het; -en",
     "EX": ""
   },
@@ -7761,8 +7761,8 @@
     "NL": ["laatste"],
     "EN": ["last", "final"],
     "PL": [],
-    "ST": "FALSE",
-    "EX": ""
+    "ST": "TRUE",
+    "EX": "eerste - laatste"
   },
   {
     "TH": [5],
@@ -7795,7 +7795,7 @@
     "EN": ["easy"],
     "PL": [],
     "ST": "FALSE",
-    "EX": ""
+    "EX": "makkelijk - moeilijk"
   },
   {
     "TH": [5],
@@ -7836,7 +7836,7 @@
     "EN": ["less", "fewer"],
     "PL": [],
     "ST": "FALSE",
-    "EX": ""
+    "EX": "minder - meer"
   },
   {
     "TH": [5],
@@ -7877,23 +7877,23 @@
     "EN": ["never"],
     "PL": [],
     "ST": "FALSE",
-    "EX": ""
+    "EX": "Nee, nog nooit."
   },
   {
     "TH": [5],
     "NL": ["notulen"],
     "EN": ["minutes of a meeting"],
     "PL": [],
-    "ST": "FALSE",
+    "ST": "TRUE",
     "AD": "de",
     "EX": ""
   },
   {
     "TH": [5],
     "NL": ["oefenen"],
-    "EN": ["to practise, to exercise"],
+    "EN": ["to practise", "to exercise"],
     "PL": [],
-    "ST": "FALSE",
+    "ST": "TRUE",
     "EX": ""
   },
   {
@@ -7944,8 +7944,7 @@
     "EN": ["in", "per"],
     "PL": [],
     "ST": "TRUE",
-    "AD": ".. keer per week",
-    "EX": ""
+    "EX": "Twee keer per dag."
   },
   {
     "TH": [5],
@@ -8295,7 +8294,7 @@
     "EN": ["last", "previous"],
     "PL": [],
     "ST": "FALSE",
-    "EX": ""
+    "EX": "vorig - volgend"
   },
   {
     "TH": [5],
@@ -8319,7 +8318,7 @@
     "EN": ["well"],
     "PL": [],
     "ST": "TRUE",
-    "EX": ""
+    "EX": "Ik wel!"
   },
   {
     "TH": [5],
@@ -8352,7 +8351,7 @@
     "NL": ["wijs"],
     "EN": ["wise"],
     "PL": [],
-    "ST": "FALSE",
+    "ST": "TRUE",
     "EX": ""
   },
   {
@@ -8394,7 +8393,7 @@
     "EN": ["seldom"],
     "PL": [],
     "ST": "FALSE",
-    "EX": ""
+    "EX": "zelden - vaak"
   },
   {
     "TH": [5],
@@ -8461,14 +8460,14 @@
     "EN": ["behind"],
     "PL": [],
     "ST": "FALSE",
-    "EX": ""
+    "EX": "voor - achter het huis"
   },
   {
     "TH": [6],
     "NL": ["advertentie"],
     "EN": ["advertisement"],
     "PL": [],
-    "ST": "FALSE",
+    "ST": "TRUE",
     "AD": "de; -s",
     "EX": ""
   },
@@ -8773,7 +8772,7 @@
     "NL": ["elektricien"],
     "EN": ["electrician"],
     "PL": [],
-    "ST": "FALSE",
+    "ST": "TRUE",
     "AD": "de; -s",
     "EX": ""
   },
@@ -8802,7 +8801,7 @@
     "PL": [],
     "ST": "FALSE",
     "AD": "het; fornuizen",
-    "EX": ""
+    "EX": "Ik kook op een gasfornuis."
   },
   {
     "TH": [6],
@@ -9119,7 +9118,7 @@
     "NL": ["lawaai"],
     "EN": ["noise"],
     "PL": [],
-    "ST": "FALSE",
+    "ST": "TRUE",
     "AD": "het; -",
     "EX": ""
   },
@@ -9204,7 +9203,7 @@
     "TH": [6],
     "NL": ["metselaar"],
     "EN": ["bricklayer", "mason"],
-    "PL": [],
+    "PL": ["murarz"],
     "ST": "FALSE",
     "AD": "de;-s",
     "EX": ""
@@ -10131,7 +10130,7 @@
     "TH": [7],
     "NL": ["been"],
     "EN": ["leg"],
-    "PL": [],
+    "PL": ["noga"],
     "ST": "FALSE",
     "AD": "het; benen",
     "EX": ""
@@ -10193,7 +10192,7 @@
     "TH": [7],
     "NL": ["blaas"],
     "EN": ["bladder"],
-    "PL": [],
+    "PL": ["pęcherz"],
     "ST": "FALSE",
     "AD": "de; blazen",
     "EX": ""
@@ -10255,7 +10254,7 @@
     "NL": ["breken"],
     "EN": ["to break"],
     "PL": [],
-    "ST": "FALSE",
+    "ST": "TRUE",
     "EX": ""
   },
   {
@@ -10270,7 +10269,7 @@
   {
     "TH": [7],
     "NL": ["capsule"],
-    "EN": ["capsule, tablet"],
+    "EN": ["capsule", "tablet"],
     "PL": [],
     "ST": "FALSE",
     "AD": "de; -s",
@@ -10305,7 +10304,7 @@
   {
     "TH": [7],
     "NL": ["dichtdoen"],
-    "EN": ["to close, to shut"],
+    "EN": ["to close", "to shut"],
     "PL": [],
     "ST": "FALSE",
     "EX": ""
@@ -10349,7 +10348,7 @@
     "EN": ["to send on (to a specialist)"],
     "PL": [],
     "ST": "FALSE",
-    "EX": ""
+    "EX": "verwijsbrief"
   },
   {
     "TH": [7],
@@ -10390,7 +10389,7 @@
     "NL": ["drukken"],
     "EN": ["to press"],
     "PL": [],
-    "ST": "FALSE",
+    "ST": "TRUE",
     "EX": ""
   },
   {
@@ -10432,7 +10431,7 @@
     "TH": [7],
     "NL": ["elleboog"],
     "EN": ["elbow"],
-    "PL": [],
+    "PL": ["łokieć"],
     "ST": "FALSE",
     "AD": "de; ellebogen",
     "EX": ""
@@ -10441,7 +10440,7 @@
     "TH": [7],
     "NL": ["enkel"],
     "EN": ["ankle"],
-    "PL": [],
+    "PL": ["kostna"],
     "ST": "FALSE",
     "AD": "de; -s",
     "EX": ""
@@ -10719,7 +10718,7 @@
     "NL": ["ijs"],
     "EN": ["ice"],
     "PL": [],
-    "ST": "FALSE",
+    "ST": "TRUE",
     "AD": "het; -",
     "EX": ""
   },
@@ -10836,7 +10835,7 @@
     "TH": [7],
     "NL": ["kin"],
     "EN": ["chin"],
-    "PL": [],
+    "PL": ["podbródek"],
     "ST": "FALSE",
     "AD": "de; -nen",
     "EX": ""
@@ -10853,7 +10852,7 @@
     "TH": [7],
     "NL": ["kneuzen"],
     "EN": ["to bruise"],
-    "PL": [],
+    "PL": ["obtłuc"],
     "ST": "FALSE",
     "EX": ""
   },
@@ -10878,7 +10877,7 @@
     "TH": [7],
     "NL": ["koorts"],
     "EN": ["fever"],
-    "PL": [],
+    "PL": ["gorączka"],
     "ST": "FALSE",
     "AD": "de; -",
     "EX": ""
@@ -10907,7 +10906,7 @@
     "PL": [],
     "ST": "FALSE",
     "AD": "de;",
-    "EX": ""
+    "EX": "Ik heb last van mijn enkel."
   },
   {
     "TH": [7],
@@ -10930,7 +10929,7 @@
     "TH": [7],
     "NL": ["lever"],
     "EN": ["liver"],
-    "PL": [],
+    "PL": ["wątroba"],
     "ST": "FALSE",
     "AD": "de; -s",
     "EX": ""
@@ -11088,7 +11087,7 @@
     "TH": [7],
     "NL": ["nier"],
     "EN": ["kidney"],
-    "PL": [],
+    "PL": ["nerka"],
     "ST": "FALSE",
     "AD": "de; -en",
     "EX": ""
@@ -11113,7 +11112,7 @@
     "TH": [7],
     "NL": ["oog"],
     "EN": ["eye"],
-    "PL": [],
+    "PL": ["oko"],
     "ST": "FALSE",
     "AD": "het; ogen",
     "EX": ""
@@ -11148,7 +11147,7 @@
     "NL": ["opschrijven"],
     "EN": ["to write down"],
     "PL": [],
-    "ST": "FALSE",
+    "ST": "TRUE",
     "EX": ""
   },
   {
@@ -11197,7 +11196,7 @@
     "NL": ["patiënt"],
     "EN": ["patient"],
     "PL": [],
-    "ST": "FALSE",
+    "ST": "TRUE",
     "AD": "de; -en",
     "EX": ""
   },
@@ -11206,7 +11205,7 @@
     "NL": ["penis"],
     "EN": ["penis"],
     "PL": [],
-    "ST": "FALSE",
+    "ST": "TRUE",
     "AD": "de; -sen",
     "EX": ""
   },
@@ -11233,9 +11232,9 @@
     "NL": ["pijn"],
     "EN": ["pain"],
     "PL": [],
-    "ST": "FALSE",
+    "ST": "TRUE",
     "AD": "de; -",
-    "EX": ""
+    "EX": "pijnstillers"
   },
   {
     "TH": [7],
@@ -11287,7 +11286,7 @@
     "NL": ["recept"],
     "EN": ["prescription", "recipe"],
     "PL": [],
-    "ST": "FALSE",
+    "ST": "TRUE",
     "AD": "het; -en",
     "EX": ""
   },
@@ -11343,7 +11342,7 @@
     "PL": [],
     "ST": "FALSE",
     "AD": "de; -",
-    "EX": ""
+    "EX": "Je moet rust houden."
   },
   {
     "TH": [7],
@@ -11409,7 +11408,7 @@
   {
     "TH": [7],
     "NL": ["smeren"],
-    "EN": ["to grease, to spread out"],
+    "EN": ["to grease", "to spread out"],
     "PL": [],
     "ST": "FALSE",
     "EX": ""
@@ -11495,10 +11494,10 @@
     "TH": [7],
     "NL": ["trommelvlies"],
     "EN": ["tympanum", "eardrum"],
-    "PL": [],
+    "PL": ["błona bębenkowa"],
     "ST": "FALSE",
     "AD": "het; -zen",
-    "EX": ""
+    "EX": "Er is iets mis met het trommelvlies."
   },
   {
     "TH": [7],
@@ -11598,7 +11597,7 @@
     "EN": ["wrong"],
     "PL": [],
     "ST": "FALSE",
-    "EX": ""
+    "EX": "Patiënt mogelijk overleden door verkeerd toegediend medicijn."
   },
   {
     "TH": [7],
@@ -11612,8 +11611,8 @@
     "TH": [7],
     "NL": ["verkouden"],
     "EN": ["having a cold"],
-    "PL": [],
-    "ST": "FALSE",
+    "PL": ["przeziębiony"],
+    "ST": "TRUE",
     "EX": ""
   },
   {
@@ -11688,7 +11687,7 @@
     "TH": [7],
     "NL": ["wenkbrauw"],
     "EN": ["eyebrow"],
-    "PL": [],
+    "PL": ["brew"],
     "ST": "FALSE",
     "AD": "de; -en",
     "EX": ""
@@ -11713,7 +11712,7 @@
   {
     "TH": [7],
     "NL": ["wijsvinger"],
-    "EN": ["forefinger", "index"],
+    "EN": ["forefinger"],
     "PL": [],
     "ST": "FALSE",
     "AD": "de; -s",
@@ -11723,7 +11722,7 @@
     "TH": [7],
     "NL": ["wimper"],
     "EN": ["eyelash"],
-    "PL": [],
+    "PL": ["rzęsa"],
     "ST": "FALSE",
     "AD": "de; -s",
     "EX": ""
@@ -11741,10 +11740,10 @@
     "TH": [7],
     "NL": ["zalf"],
     "EN": ["ointment", "cream"],
-    "PL": [],
+    "PL": ["maść"],
     "ST": "FALSE",
     "AD": "de; zalven",
-    "EX": ""
+    "EX": "De zalf voor de huid."
   },
   {
     "TH": [7],
@@ -11790,7 +11789,7 @@
   {
     "TH": [8],
     "NL": ["afwachtend"],
-    "EN": ["passive, reluctant"],
+    "EN": ["passive", "reluctant"],
     "PL": [],
     "ST": "FALSE",
     "EX": ""
@@ -11824,7 +11823,7 @@
     "NL": ["ambitieus"],
     "EN": ["ambitious"],
     "PL": [],
-    "ST": "FALSE",
+    "ST": "TRUE",
     "EX": ""
   },
   {
@@ -11832,7 +11831,7 @@
     "NL": ["arrogant"],
     "EN": ["arrogant"],
     "PL": [],
-    "ST": "FALSE",
+    "ST": "TRUE",
     "EX": ""
   },
   {
@@ -11872,13 +11871,13 @@
     "NL": ["beschrijven"],
     "EN": ["to describe"],
     "PL": [],
-    "ST": "FALSE",
+    "ST": "TRUE",
     "EX": ""
   },
   {
     "TH": [8],
     "NL": ["betrouwbaar"],
-    "EN": ["reliable, trustworthy"],
+    "EN": ["reliable", "trustworthy"],
     "PL": [],
     "ST": "FALSE",
     "EX": ""
@@ -11905,7 +11904,7 @@
     "NL": ["bikini"],
     "EN": ["bikini"],
     "PL": [],
-    "ST": "FALSE",
+    "ST": "TRUE",
     "AD": "de; -'s",
     "EX": ""
   },
@@ -11953,7 +11952,7 @@
   {
     "TH": [8],
     "NL": ["breed"],
-    "EN": ["wide, broad"],
+    "EN": ["wide", "broad"],
     "PL": [],
     "ST": "FALSE",
     "EX": ""
@@ -11971,7 +11970,7 @@
     "TH": [8],
     "NL": ["bruid"],
     "EN": ["bride"],
-    "PL": [],
+    "PL": ["pani młoda"],
     "ST": "FALSE",
     "AD": "de; -en",
     "EX": ""
@@ -11980,7 +11979,7 @@
     "TH": [8],
     "NL": ["bruidegom"],
     "EN": ["bridegroom"],
-    "PL": [],
+    "PL": ["pan młody"],
     "ST": "FALSE",
     "AD": "de; bruidegoms",
     "EX": ""
@@ -12105,14 +12104,14 @@
     "PL": [],
     "ST": "FALSE",
     "AD": "de; -en",
-    "EX": ""
+    "EX": "In de zeventiende eeuw..."
   },
   {
     "TH": [8],
     "NL": ["egoïstisch"],
     "EN": ["selfish", "egoistic"],
     "PL": [],
-    "ST": "FALSE",
+    "ST": "TRUE",
     "EX": ""
   },
   {
@@ -12126,8 +12125,8 @@
   },
   {
     "TH": [8],
-    "NL": ["eigenwijs"],
-    "EN": ["self-conceited"],
+    "NL": ["koppig", "eigenwijs"],
+    "EN": ["stubborn"],
     "PL": [],
     "ST": "FALSE",
     "EX": ""
@@ -12146,7 +12145,7 @@
     "NL": ["elektrisch"],
     "EN": ["electric(al)"],
     "PL": [],
-    "ST": "FALSE",
+    "ST": "TRUE",
     "EX": ""
   },
   {
@@ -12154,7 +12153,7 @@
     "NL": ["emotie"],
     "EN": ["emotion"],
     "PL": [],
-    "ST": "FALSE",
+    "ST": "TRUE",
     "AD": "de; -s",
     "EX": ""
   },
@@ -12203,7 +12202,7 @@
   {
     "TH": [8],
     "NL": ["evenwichtig"],
-    "EN": ["balanced, level-headed"],
+    "EN": ["balanced", "level-headed"],
     "PL": [],
     "ST": "FALSE",
     "EX": ""
@@ -12213,7 +12212,7 @@
     "NL": ["extravert"],
     "EN": ["extravert"],
     "PL": [],
-    "ST": "FALSE",
+    "ST": "TRUE",
     "EX": ""
   },
   {
@@ -12229,7 +12228,7 @@
     "NL": ["geduldig"],
     "EN": ["patient"],
     "PL": [],
-    "ST": "FALSE",
+    "ST": "TRUE",
     "EX": ""
   },
   {
@@ -12321,7 +12320,7 @@
     "PL": [],
     "ST": "FALSE",
     "AD": "de; -",
-    "EX": ""
+    "EX": "Ik vind de hectiek van mijn baan geweldig."
   },
   {
     "TH": [8],
@@ -12375,7 +12374,7 @@
   {
     "TH": [8],
     "NL": ["impulsief"],
-    "EN": ["impulsive(ly)"],
+    "EN": ["impulsive", "impulsively"],
     "PL": [],
     "ST": "FALSE",
     "EX": ""
@@ -12393,7 +12392,7 @@
     "NL": ["inschrijven"],
     "EN": ["to register", "to enroll"],
     "PL": [],
-    "ST": "FALSE",
+    "ST": "TRUE",
     "EX": ""
   },
   {
@@ -12417,7 +12416,7 @@
     "NL": ["introvert"],
     "EN": ["introvert"],
     "PL": [],
-    "ST": "FALSE",
+    "ST": "TRUE",
     "EX": ""
   },
   {
@@ -12433,7 +12432,7 @@
     "NL": ["kabaal"],
     "EN": ["noise"],
     "PL": [],
-    "ST": "FALSE",
+    "ST": "TRUE",
     "AD": "het; -",
     "EX": ""
   },
@@ -12479,14 +12478,6 @@
     "PL": [],
     "ST": "FALSE",
     "AD": "het; -s",
-    "EX": ""
-  },
-  {
-    "TH": [8],
-    "NL": ["koppig"],
-    "EN": ["obstinate, stubborn"],
-    "PL": [],
-    "ST": "FALSE",
     "EX": ""
   },
   {
@@ -12544,7 +12535,7 @@
     "PL": [],
     "ST": "FALSE",
     "AD": "de; -",
-    "EX": ""
+    "EX": "liefde != haat"
   },
   {
     "TH": [8],
@@ -12586,7 +12577,7 @@
     "EN": ["to go with you", "to join"],
     "PL": [],
     "ST": "FALSE",
-    "EX": ""
+    "EX": "Wie wil er met me mee doen?"
   },
   {
     "TH": [8],
@@ -12666,14 +12657,14 @@
     "TH": [8],
     "NL": ["nieuwsgierig"],
     "EN": ["curious", "inquisitive"],
-    "PL": [],
-    "ST": "FALSE",
+    "PL": ["ciekawski"],
+    "ST": "TRUE",
     "EX": ""
   },
   {
     "TH": [8],
     "NL": ["nuchter"],
-    "EN": ["down-to-earth; sober"],
+    "EN": ["down-to-earth", "sober"],
     "PL": [],
     "ST": "FALSE",
     "EX": ""
@@ -12699,7 +12690,7 @@
     "NL": ["ongeduldig"],
     "EN": ["impatient"],
     "PL": [],
-    "ST": "FALSE",
+    "ST": "TRUE",
     "EX": ""
   },
   {
@@ -12782,8 +12773,8 @@
     "NL": ["optimistisch"],
     "EN": ["optimistic"],
     "PL": [],
-    "ST": "FALSE",
-    "EX": ""
+    "ST": "TRUE",
+    "EX": "Ik ben redelijk optimistisch."
   },
   {
     "TH": [8],
@@ -12856,7 +12847,7 @@
   {
     "TH": [8],
     "NL": ["redden"],
-    "EN": ["to save, to manage"],
+    "EN": ["to save", "to manage"],
     "PL": [],
     "ST": "FALSE",
     "EX": ""
@@ -13007,7 +12998,7 @@
   {
     "TH": [8],
     "NL": ["soepel"],
-    "EN": ["supple, flexible"],
+    "EN": ["supple", "flexible"],
     "PL": [],
     "ST": "FALSE",
     "EX": ""
@@ -13184,7 +13175,7 @@
     "TH": [8],
     "NL": ["verheugen"],
     "EN": ["to look forward to"],
-    "PL": [],
+    "PL": ["nie móc się doczekać"],
     "ST": "FALSE",
     "AD": "zich",
     "EX": "Verheug jij je al op de vakantie?"
@@ -13225,7 +13216,7 @@
   {
     "TH": [8],
     "NL": ["verschrikkelijk"],
-    "EN": ["terrible, frightful"],
+    "EN": ["terrible", "frightful"],
     "PL": [],
     "ST": "FALSE",
     "EX": ""
@@ -13252,7 +13243,7 @@
     "NL": ["voelen"],
     "EN": ["to feel"],
     "PL": [],
-    "ST": "FALSE",
+    "ST": "TRUE",
     "AD": "zich",
     "EX": ""
   },
@@ -13284,7 +13275,7 @@
   {
     "TH": [8],
     "NL": ["vreselijk"],
-    "EN": ["terrible, dreadful"],
+    "EN": ["terrible", "dreadful"],
     "PL": [],
     "ST": "FALSE",
     "EX": ""
@@ -13319,8 +13310,8 @@
     "NL": ["warm"],
     "EN": ["warm"],
     "PL": [],
-    "ST": "FALSE",
-    "EX": ""
+    "ST": "TRUE",
+    "EX": "warm != koud"
   },
   {
     "TH": [8],
@@ -13344,7 +13335,7 @@
     "NL": ["zee"],
     "EN": ["sea"],
     "PL": [],
-    "ST": "FALSE",
+    "ST": "TRUE",
     "AD": "de; zee'n",
     "EX": ""
   },
@@ -13525,7 +13516,7 @@
   {
     "TH": [9],
     "NL": ["bediening"],
-    "EN": ["service, attendance"],
+    "EN": ["service", "attendance"],
     "PL": [],
     "ST": "FALSE",
     "AD": "de; -",
@@ -13559,7 +13550,7 @@
   {
     "TH": [9],
     "NL": ["bereikbaar"],
-    "EN": ["attainable, within reach"],
+    "EN": ["attainable", "within reach"],
     "PL": [],
     "ST": "FALSE",
     "EX": ""
@@ -13613,7 +13604,7 @@
     "EN": ["busy", "occupied"],
     "PL": [],
     "ST": "FALSE",
-    "EX": ""
+    "EX": "Ze is veel bezig met haar uiterlijk. Bezig met laden."
   },
   {
     "TH": [9],
@@ -14747,7 +14738,7 @@
     "NL": ["schrijver"],
     "EN": ["writer"],
     "PL": [],
-    "ST": "FALSE",
+    "ST": "TRUE",
     "AD": "de; -s",
     "EX": ""
   },
@@ -14884,7 +14875,7 @@
   {
     "TH": [9],
     "NL": ["uitvoeren"],
-    "EN": ["to execute, to perform"],
+    "EN": ["to execute", "to perform"],
     "PL": [],
     "ST": "FALSE",
     "EX": ""
@@ -15170,7 +15161,7 @@
   {
     "TH": [10],
     "NL": ["bron"],
-    "EN": ["source, well"],
+    "EN": ["source", "well"],
     "PL": [],
     "ST": "FALSE",
     "AD": "de; bronnen",
@@ -15478,7 +15469,7 @@
   {
     "TH": [10],
     "NL": ["ruimte"],
-    "EN": ["space, room"],
+    "EN": ["space", "room"],
     "PL": [],
     "ST": "FALSE",
     "AD": "de; -s",
@@ -15556,7 +15547,7 @@
   {
     "TH": [10],
     "NL": ["toenemen"],
-    "EN": ["to increase, to grow"],
+    "EN": ["to increase", "to grow"],
     "PL": [],
     "ST": "FALSE",
     "EX": ""
