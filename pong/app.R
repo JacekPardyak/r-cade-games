@@ -8,6 +8,7 @@
 #
 
 library(shiny)
+library(beepr)
 HEIGHT = 300
 WIDTH = 300 
 SIZE = 30
@@ -24,6 +25,8 @@ ui <- fluidPage(
     sidebarLayout(
         sidebarPanel(
             actionButton("go", "Play"), actionButton("stop", "Stop"),
+            h5(strong("Game stats:")),
+            verbatimTextOutput("info"),
         ),
         
         # Show a plot of the generated distribution
@@ -33,8 +36,8 @@ ui <- fluidPage(
                         "Paddle position:",
                         min = 0,
                         max = WIDTH - SIZE,
-                        value = WIDTH/2),
-            verbatimTextOutput("info")
+                        value = WIDTH/2,
+                        step = 10)
         )
     )
 )
@@ -63,7 +66,7 @@ server <- function(input, output) {
         sound <- 0
         if (ball$x <= 0 | ball$x >= WIDTH){
             ball$dx = -1 * ball$dx
-            #sound <- 1
+            sound <- 1
         }
         
         ball$x = ball$x + ball$dx
@@ -71,7 +74,7 @@ server <- function(input, output) {
         
         if (ball$y >= HEIGHT){
             ball$dy = -1 * ball$dy
-            #  sound <- 1
+            sound <- 1
         }
         
         if (ball$y <= 0 & ( (ball$x >= input$paddle) & ball$x < (input$paddle + SIZE))){
@@ -88,10 +91,7 @@ server <- function(input, output) {
             sound <- 8
         }
         
-        #ball$y = ball$y + ball$dy
-        #ball$y = min(max(ball$y, 0), HEIGHT) 
-        #input$paddle, 
-        # beep(sound)
+    #  beep(sound)
     }
     
     observeEvent(input$stop,{
@@ -128,7 +128,7 @@ server <- function(input, output) {
             col = "white"
         )
         # text
-        #         text(WIDTH/2, HEIGHT - 15, ball$label, cex=5, col = "white")
+        # text(WIDTH/2, HEIGHT - 15, ball$label, cex=5, col = "white")
     })
     
     output$info <- renderText({
