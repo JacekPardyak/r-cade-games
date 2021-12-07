@@ -30,10 +30,12 @@ Files `wav` come from `beepr` package and workaround from https://stackoverflow.
 
 # Further work
 
-I can think of improving UX (for example `text` in the canvas) but my goal is achieved.
+I can think of improving UX but my goal is achieved.
 
 # References
 
 https://lucidmanager.org/data-science/pong/ 
 
 https://github.com/rasmusab/beepr
+
+https://shiny.rstudio.com/

@@ -55,6 +55,7 @@ server <- function(input, output) {
         ball$dx =  (-1) ^ sample(c(0, 1), 1)
         ball$dy =  (-1) ^ sample(c(0, 1), 1)
         ball$score = 0
+        ball$label = ""
         
         session$timer <- reactiveTimer(30)
         observeEvent(session$timer(),{
@@ -84,7 +85,10 @@ server <- function(input, output) {
         
         if (ball$y <= 0 & ( (ball$x < input$paddle) |
                             ball$x > (input$paddle + SIZE))){
-            session$timer<-reactiveTimer(Inf)
+          ball$x = WIDTH/2
+          ball$y = HEIGHT/2
+          ball$label = "GAME OVER"
+          session$timer<-reactiveTimer(Inf)
         }
         
         if(ball$y >= HEIGHT | ball$x <= 0 | ball$x >= WIDTH |
@@ -97,8 +101,7 @@ server <- function(input, output) {
                                    style="display:none;"))
         }
         
-        if(ball$y <= 0 & ( (ball$x < input$paddle) |
-                           ball$x > (input$paddle + SIZE))){
+        if(ball$x == WIDTH/2 & ball$y == HEIGHT/2){
           insertUI(selector = "#go",
                    where = "afterEnd",
                    # beep.wav should be in /www of the shiny app
@@ -142,7 +145,7 @@ server <- function(input, output) {
             col = "white"
         )
         # text
-        # text(WIDTH/2, HEIGHT - 15, ball$label, cex=5, col = "white")
+        text(WIDTH/2, 2 * HEIGHT/3, ball$label, cex=7, col = "white")
     })
     
     output$info <- renderText({
