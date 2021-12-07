@@ -26,7 +26,7 @@ https://github.com/JacekPardyak/r-cade-games/blob/master/pong/app.R
 
 # Further work
 
-Developers may decide to include `sound` and `text` in the canvas. For me it was rather out of current scope :).
+I can think of improving UX but my goal is archieved. Developers may decide to include `sound` in the game and `text` in the canvas. For me it was rather out of current scope :).
 
 # References
 
