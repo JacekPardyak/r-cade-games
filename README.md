@@ -24,10 +24,16 @@ Here is a notebook to help you make such a animations in R: https://github.com/J
 Here is the app script:
 https://github.com/JacekPardyak/r-cade-games/blob/master/pong/app.R
 
+# Sound in the game
+
+Files `wav` come from `beepr` package and workaround from https://stackoverflow.com/questions/62369511/how-to-make-a-shiny-app-beep-play-a-sound-after-a-reactive-event
+
 # Further work
 
-I can think of improving UX but my goal is archieved. Developers may decide to include `sound` in the game and `text` in the canvas. For me it was rather out of current scope :).
+I can think of improving UX (for example `text` in the canvas) but my goal is achieved.
 
 # References
 
 https://lucidmanager.org/data-science/pong/ 
+
+https://github.com/rasmusab/beepr

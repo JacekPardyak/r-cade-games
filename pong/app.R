@@ -17,14 +17,14 @@ ball <- reactiveValues()
 
 # Define UI for application that draws a histogram
 ui <- fluidPage(
-    
-    # Application title
+  tags$head(tags$script(src = "message-handler.js")),
+  # Application title
     titlePanel("Pong r-cade game"),
     
     # Sidebar with a slider input for number of bins
     sidebarLayout(
         sidebarPanel(
-            actionButton("go", "Play"), actionButton("stop", "Stop"),
+            actionButton("go", "Play"), actionButton("stop", "Stop"),  
             h5(strong("Game stats:")),
             verbatimTextOutput("info"),
         ),
@@ -63,10 +63,8 @@ server <- function(input, output) {
     })
     
     forward <- function(){
-        sound <- 0
         if (ball$x <= 0 | ball$x >= WIDTH){
             ball$dx = -1 * ball$dx
-            sound <- 1
         }
         
         ball$x = ball$x + ball$dx
@@ -74,24 +72,40 @@ server <- function(input, output) {
         
         if (ball$y >= HEIGHT){
             ball$dy = -1 * ball$dy
-            sound <- 1
         }
         
         if (ball$y <= 0 & ( (ball$x >= input$paddle) & ball$x < (input$paddle + SIZE))){
             ball$dy = -1 * ball$dy
             ball$score <- ball$score + 1
-            sound <- 1
         }
         
         ball$y = ball$y + ball$dy
         ball$y = min(max(ball$y, 0), HEIGHT) 
         
-        if (ball$y <= 0 & ( (ball$x < input$paddle) | ball$x > (input$paddle + SIZE))){
+        if (ball$y <= 0 & ( (ball$x < input$paddle) |
+                            ball$x > (input$paddle + SIZE))){
             session$timer<-reactiveTimer(Inf)
-            sound <- 8
         }
         
-    #  beep(sound)
+        if(ball$y >= HEIGHT | ball$x <= 0 | ball$x >= WIDTH |
+           (ball$y <= 0 & ( (ball$x >= input$paddle) & ball$x < (input$paddle + SIZE)))){
+          insertUI(selector = "#go",
+                   where = "afterEnd",
+                   # beep.wav should be in /www of the shiny app
+                   ui = tags$audio(src = "microwave_ping_mono.wav", 
+                                   type = "audio/wav", autoplay = T, controls = NA, 
+                                   style="display:none;"))
+        }
+        
+        if(ball$y <= 0 & ( (ball$x < input$paddle) |
+                           ball$x > (input$paddle + SIZE))){
+          insertUI(selector = "#go",
+                   where = "afterEnd",
+                   # beep.wav should be in /www of the shiny app
+                   ui = tags$audio(src = "facebook.wav", 
+                                   type = "audio/wav", autoplay = T, controls = NA, 
+                                   style="display:none;"))
+        }
     }
     
     observeEvent(input$stop,{
@@ -135,8 +149,6 @@ server <- function(input, output) {
         paste0("x=", ball$x , "\ny=", ball$y,
                "\ndx=", ball$dx , "\ndy=", ball$dy, "\nscore=", ball$score   )
     })
-    
-    
     
 }
 
