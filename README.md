@@ -2,7 +2,7 @@
 
 ## Motivation
 
-I read a great article of Peter Prevos **R-Cade Games: Simulating the Legendary Pong Game in R** (see references). I found it really inspiring and decided to try myself go a step further - use continuous user input in the R language thanks to Shiny. Here is the result. 
+I read a great article of Peter Prevos **R-Cade Games: Simulating the Legendary Pong Game in R** (see references). I found it really inspiring and decided to try myself go a step further - use continuous user input in the R language - thanks to Shiny it is possible. Here is the result. 
 
 ## Pong
 
