@@ -27,6 +27,8 @@ ui <- fluidPage(
             actionButton("go", "Play"), actionButton("stop", "Stop"),  
             h5(strong("Game stats:")),
             verbatimTextOutput("info"),
+            h5(strong("More info:")),
+            tags$a(href="https://github.com/JacekPardyak/r-cade-games", "Click here!"),
         ),
         
         # Show a plot of the generated distribution
