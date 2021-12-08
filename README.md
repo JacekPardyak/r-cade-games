@@ -17,6 +17,9 @@ In the app, you should see a bouncing ball resembling this:
 
 ![](Capture.PNG)
 
+# App in the web
+
+Test shows that the app runs well on `shiny-server` hosted on `deb-10`. 
 
 # Animations in R
 

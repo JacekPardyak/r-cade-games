@@ -8,7 +8,6 @@
 #
 
 library(shiny)
-library(beepr)
 HEIGHT = 300
 WIDTH = 300 
 SIZE = 30
