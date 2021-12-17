@@ -1,0 +1,34 @@
+/* Get a fancy font from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Fuzzy+Bubbles&display=swap');
+
+body {
+  background-color: white;
+  color: black; /* text color */
+}
+
+/* Change header text to imported font */
+h2 {
+  font-family: 'Fuzzy Bubbles', sans-serif;
+}
+
+text {
+  font-family: 'Fuzzy Bubbles', sans-serif;
+}
+
+label {
+  font-family: 'Fuzzy Bubbles', sans-serif;
+}
+
+
+/* Make text visible on inputs */
+.shiny-input-container {
+  color: #474747;
+}
+
+.btn-default {
+  font-family: 'Fuzzy Bubbles', sans-serif;
+}
+
+.shiny-text-output {
+  font-family: 'Fuzzy Bubbles', sans-serif;
+}

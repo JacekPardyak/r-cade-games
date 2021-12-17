@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="120.00001pt"
+   height="120pt"
+   version="1.1"
+   viewBox="0 0 120.00001 120"
+   id="svg14"
+   sodipodi:docname="cross.svg"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
+   inkscape:export-filename="C:\Users\jacek\OneDrive\Documents\vps\tic-tac-toe\t-t-t-4\www\cross.png"
+   inkscape:export-xdpi="25"
+   inkscape:export-ydpi="25">
+  <metadata
+     id="metadata20">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs18" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     id="namedview16"
+     showgrid="false"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="12.54861"
+     inkscape:cy="146.96986"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:document-rotation="0" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="cross"
+     style="display:inline"
+     transform="translate(-424.54203,-424.51634)">
+    <path
+       d="m 487.38682,484.51775 c 32.30938,-32.24807 57.15522,-60.00141 57.15522,-60.00141 0,0 -27.45858,25.49749 -59.68991,57.48723 -32.40872,-32.14785 -60.31009,-56.85763 -60.31009,-56.85763 0,0 25.62924,27.3129 57.78819,59.36758 -32.91822,32.76616 -57.78819,59.37322 -57.78819,59.37322 0,0 27.54657,-24.31311 60.31577,-56.85199 32.93525,32.74922 59.68423,57.48159 59.68423,57.48159 0,0 -24.44279,-27.41171 -57.15522,-59.99576 z"
+       id="path10"
+       style="stroke-width:1.41542" />
+  </g>
+</svg>

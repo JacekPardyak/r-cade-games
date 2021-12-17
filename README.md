@@ -30,6 +30,14 @@ On your screen you should see:
 
 ![](Capture_ttt_classic.PNG)
 
+`tidy` version is available here: 
+
+```
+library(shiny)
+runGitHub(repo = 'r-cade-games', username = 'JacekPardyak', subdir = 'tic-tac-toe-tidy')
+```
+
+![](Capture_ttt_tidy.PNG)
 
 # Animations in R
 
